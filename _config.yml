@@ -5,7 +5,7 @@ permalink: "/:title/"
 palette: orange
 header:
   title: btep
-  logo_img: "/images/BTEPlogo.png"
+  logo_img: "/images/BTEP_tree.png"
   has_nav: true
   menu:
     actions:
