@@ -14,11 +14,10 @@ sections:
     url: "/features"
 - type: featuresblock
   template: featuresblock
-  section_id: features
-  title: Features
+  section_id: about
+  title: About
   component: features_block.html
-  subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-    quis lorem malesuada luctus.
+  subtitle: bringing together extraordinary people.
   bg: gray
   featureslist:
   - title: The Best Feature of Your Services
