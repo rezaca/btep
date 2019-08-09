@@ -1,50 +1,53 @@
-title: Stackbit Azimuth Theme
-baseurl: /
-permalink: '/:title/'
-palette: blue
+---
+title: btep - bringing together extraordinary people
+baseurl: "/"
+permalink: "/:title/"
+palette: orange
 header:
-  title: Azimuth
-  logo_img: images/logo.png
+  title: btep
+  logo_img: "/images/BTEPlogo.png"
   has_nav: true
   menu:
     actions:
-      - label: Sign Up
-        url: /signup
+    - label: Sign Up
+      url: "/sign-up"
+    - label: Donate
+      url: "/donate"
 footer:
-  logo_img: images/logo_alt.png
-  tagline: SaaS theme by Stackbit
+  logo_img: "/images/BTEPlogo.png"
+  tagline: btep inc.
   has_nav: true
-  nav_title: Company
+  nav_title: About
   has_social: true
   social_title: Community
   has_subscribe: true
   subscribe_title: Subscribe
   subscribe_content: Stay up to date with our latest developments.
-  content: '&copy; Stackbit. All rights reserved.'
+  content: "&copy; Stackbit. All rights reserved."
   links:
-    - text: Made with Stackbit
-      url: 'https://www.stackbit.com'
-      new_window: true
+  - text: Made with Stackbit
+    url: https://www.stackbit.com
+    new_window: true
 sass:
   indentWidth: 4
   style: nested
   precision: 10
 plugins:
-  - jekyll-menus
+- jekyll-menus
 exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-  - ssg-build.sh
-  - LICENSE.md
-  - README.md
-  - netlify.toml
-  - stackbit-build.sh
-  - stackbit-pull.js
+- Gemfile
+- Gemfile.lock
+- node_modules
+- vendor/bundle/
+- vendor/cache/
+- vendor/gems/
+- vendor/ruby/
+- ssg-build.sh
+- LICENSE.md
+- README.md
+- netlify.toml
+- stackbit-build.sh
+- stackbit-pull.js
 collections:
   posts:
-    permalink: '/posts/:title/'
+    permalink: "/posts/:title/"
