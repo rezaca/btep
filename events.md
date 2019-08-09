@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Events
 sections:
 - type: pricingblock
   template: pricingblock
@@ -19,6 +19,7 @@ sections:
     actions:
     - label: Order Now
       url: "/signup"
+    highlight: false
   - title: Professional
     price: "$49/m"
     details: |-
@@ -41,6 +42,7 @@ sections:
     actions:
     - label: Order Now
       url: "/signup"
+    highlight: false
 - type: faqblock
   template: faqblock
   section_id: faq
