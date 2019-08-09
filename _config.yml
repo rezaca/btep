@@ -2,7 +2,7 @@
 title: btep - bringing together extraordinary people
 baseurl: "/"
 permalink: "/:title/"
-palette: blue
+palette: orange
 header:
   title: btep
   logo_img: "/images/bteplogoWEB.png"

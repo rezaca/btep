@@ -21,10 +21,10 @@ sections:
     through education, wellness, and leadership.
   bg: gray
   featureslist:
-  - title: Bringing Together Extraordinary People
-    content: Leveraging athletic platforms to address the socioeconomic needs of our
-      communities through education, wellness, and anti-bullying.
-    image: images/feature1.png
+  - title: Education
+    content: Setting out to improve our underserved youth of our communities through
+      real-world applications of network building and shadowing.
+    image: "/images/education.jpg"
     actions:
     - label: Learn More
       url: "/features"
