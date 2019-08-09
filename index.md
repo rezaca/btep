@@ -8,7 +8,7 @@ sections:
   component: hero_block.html
   content: Our mission is to ensure no student feels mentally defeated before stepping
     on the field of play due to lack of athletic equipment.
-  image: "/images/btepHero-1.jpg"
+  image: "/images/bballpic.jpg"
   actions:
   - label: Learn More
     url: "/features"
