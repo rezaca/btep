@@ -28,27 +28,26 @@ sections:
     actions:
     - label: Learn More
       url: "/features"
-  - title: Awesome Feature of Your Services
-    content: Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-      sapien interdum luctus. Cras rhoncus condimentum metus sit amet auctor.
+  - title: Wellness
+    content: Helping families live proactive lives by providing free health screenings
+      to and encouraging active lifestyles.
     image: images/feature2.png
     actions:
     - label: Learn More
       url: "/features"
-  - title: Cool Feature of Your Services
-    content: In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean quis
-      venenatis sem. Proin eget massa id metus eleifend maximus sit amet nec urna.
+  - title: Leadership
+    content: Helping students rise above unmitigated circumstances,through constructive
+      avenues of expression.
     image: images/feature3.png
     actions:
     - label: Learn More
       url: "/features"
 - type: reviewsblock
   template: reviewsblock
-  section_id: reviews
-  title: Testimonials
+  section_id: events
+  title: Events
   component: reviews_block.html
-  subtitle: 'Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-    semper libero id sodales. '
+  subtitle: Upcoming events btep will either host, or contribute to.
   bg: white
   reviews:
   - author: John Doe
