@@ -15,9 +15,10 @@ sections:
 - type: featuresblock
   template: featuresblock
   section_id: about
-  title: About
+  title: Our Mission
   component: features_block.html
-  subtitle: This is what we are about.
+  subtitle: Addressing the socioeconomic needs and emotional health of our communities
+    through education, wellness, and leadership.
   bg: gray
   featureslist:
   - title: Bringing Together Extraordinary People
