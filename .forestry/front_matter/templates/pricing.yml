@@ -25,4 +25,4 @@ fields:
   config:
     required: true
 pages:
-- pricing.md
+- events.md
