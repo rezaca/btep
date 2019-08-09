@@ -17,12 +17,12 @@ sections:
   section_id: about
   title: About
   component: features_block.html
-  subtitle: bringing together extraordinary people.
+  subtitle: This is what we are about.
   bg: gray
   featureslist:
-  - title: The Best Feature of Your Services
-    content: Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed aliquet
-      luctus, lorem risus volutpat dolor, nec dignissim diam neque consequat ex.
+  - title: Bringing Together Extraordinary People
+    content: Leveraging athletic platforms to address the socioeconomic needs of our
+      communities through education, wellness, and anti-bullying.
     image: images/feature1.png
     actions:
     - label: Learn More
