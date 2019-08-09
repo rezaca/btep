@@ -14,7 +14,7 @@ header:
     - label: Donate
       url: "/donate"
 footer:
-  logo_img: "/images/BTEPlogo.png"
+  logo_img: "/images/BTEP_tree.png"
   tagline: btep inc.
   has_nav: true
   nav_title: Organization
