@@ -45,12 +45,12 @@ sections:
 - type: ctablock
   template: ctablock
   section_id: call-to-action
-  title: This Is Call To Action Block!
+  title: Register for The Blacktop Jungle Today!
   component: cta_block.html
-  subtitle: This is an optional description for the call to action block.
+  subtitle: Saturday, October 19 in the streets of Uptown Charlotte.
   actions:
-  - label: Get Started
-    url: "/signup"
+  - label: Register Your Team
+    url: "/register"
 - type: postsblock
   template: postsblock
   section_id: recent-posts
