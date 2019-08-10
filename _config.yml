@@ -11,8 +11,8 @@ header:
     actions:
     - label: Donate
       url: "/donate"
-    - label: Sign Up
-      url: "/sign-up"
+    - label: Register
+      url: "/register"
 footer:
   logo_img: "/images/bteplogoCMS.png"
   tagline: btep inc.
