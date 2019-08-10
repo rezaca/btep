@@ -42,26 +42,6 @@ sections:
     actions:
     - label: Learn More
       url: "/features"
-- type: reviewsblock
-  template: reviewsblock
-  section_id: events
-  title: Events
-  component: reviews_block.html
-  subtitle: Upcoming events btep will either host, or contribute to.
-  bg: white
-  reviews:
-  - author: The Blacktop Jungle
-    avatar: "/images/BTEP_tree-1.png"
-    content: Our third annual 3v3 basketball tournament on the streets of uptown Charlotte
-  - author: Jane Roe
-    avatar: images/review2.jpg
-    content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
-      interdum ligula vel, pretium diam. Integer commodo sem at dui sollicitudin,
-      vel posuere justo laoreet.
-  - author: Richard Roe
-    avatar: images/review3.jpg
-    content: Integer consectetur purus neque, ac porttitor enim convallis vitae. Interdum
-      et malesuada fames ac ante ipsum primis in faucibus.
 - type: ctablock
   template: ctablock
   section_id: call-to-action
