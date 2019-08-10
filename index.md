@@ -4,7 +4,7 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  title: Empowering the youth in Charlotte, NC.
+  title: Empowering the youth in our community.
   component: hero_block.html
   content: Our mission is to ensure no student feels mentally defeated before stepping
     on the field of play due to lack of athletic equipment.
