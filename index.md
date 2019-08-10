@@ -38,7 +38,7 @@ sections:
   - title: Leadership
     content: Helping students rise above unmitigated circumstances through constructive
       avenues of expression.
-    image: images/feature3.png
+    image: "/images/leader.jpg"
     actions:
     - label: Learn More
       url: "/features"
