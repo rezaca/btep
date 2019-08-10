@@ -15,7 +15,7 @@ header:
       url: "/register"
 footer:
   logo_img: "/images/bteplogoCMS.png"
-  tagline: btep inc.
+  tagline: bringing together extraordinary people
   has_nav: true
   nav_title: Organization
   has_social: true
@@ -23,7 +23,7 @@ footer:
   has_subscribe: true
   subscribe_title: Subscribe
   subscribe_content: Stay up to date with our latest events.
-  content: "&copy; btep. All rights reserved."
+  content: "&copy; 2019 BTEP, INC. All rights reserved."
   links: []
 sass:
   indentWidth: 4
