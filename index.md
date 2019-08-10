@@ -31,12 +31,12 @@ sections:
   - title: Wellness
     content: Helping families live proactive lives by providing free health screenings
       to and encouraging active lifestyles.
-    image: images/feature2.png
+    image: "/images/lindsay-henwood-7_kRuX1hSXM-unsplash.jpg"
     actions:
     - label: Learn More
       url: "/features"
   - title: Leadership
-    content: Helping students rise above unmitigated circumstances,through constructive
+    content: Helping students rise above unmitigated circumstances, through constructive
       avenues of expression.
     image: images/feature3.png
     actions:
