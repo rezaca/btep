@@ -1,6 +1,14 @@
 ---
 title: Home
 sections:
+- template: heroblock
+  component: hero_block.html
+  type: heroblock
+  section_id: hero
+  title: Ball in the Streets of Uptown Charlotte
+  content: ''
+  image: ''
+  actions: []
 - type: heroblock
   template: heroblock
   section_id: hero
