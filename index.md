@@ -50,7 +50,7 @@ sections:
   subtitle: Saturday, October 19 in the streets of Uptown Charlotte.
   actions:
   - label: Register
-    url: "/register"
+    url: https://www.tourneymachine.com/E65074
 - type: postsblock
   template: postsblock
   section_id: recent-posts
