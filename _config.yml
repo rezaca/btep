@@ -10,7 +10,7 @@ header:
   menu:
     actions:
     - label: Donate
-      url: "/donate"
+      url: https://www.paypal.com/paypalme2/Btepinc
     - label: Register
       url: https://www.tourneymachine.com/E65074
 footer:
