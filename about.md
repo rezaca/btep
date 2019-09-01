@@ -1,7 +1,7 @@
 ---
 title: About Us
 subtitle: 'Tax ID: 501c3 - #47-4752291'
-img_path: images/about.jpg
+img_path: "/images/bus stop.png"
 layout: page
 menu:
   main:
