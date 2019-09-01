@@ -8,8 +8,10 @@ sections:
   title: Ball in the Streets of Uptown Charlotte
   content: Register to play in the Blacktop Jungle - the only 3v3 basketball tournament
     held in the streets of the Queen City.
-  image: ''
-  actions: []
+  image: "/images/action shot 2.jpg"
+  actions:
+  - label: Register Your Team
+    url: https://www.tourneymachine.com/E65074
 - type: heroblock
   template: heroblock
   section_id: hero
