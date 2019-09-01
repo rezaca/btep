@@ -12,17 +12,6 @@ sections:
   actions:
   - label: Register Your Team
     url: https://www.tourneymachine.com/E65074
-- type: heroblock
-  template: heroblock
-  section_id: hero
-  title: Empowering the youth in our community.
-  component: hero_block.html
-  content: Our mission is to ensure no student feels mentally defeated before stepping
-    on the field of play due to lack of athletic equipment.
-  image: "/images/hoop2.jpg"
-  actions:
-  - label: Learn More
-    url: "/features"
 - type: featuresblock
   template: featuresblock
   section_id: about
@@ -69,6 +58,17 @@ sections:
   component: posts_block.html
   bg: gray
   subtitle: ''
+- type: heroblock
+  template: heroblock
+  section_id: hero
+  title: Empowering the youth in our community.
+  component: hero_block.html
+  content: Our mission is to ensure no student feels mentally defeated before stepping
+    on the field of play due to lack of athletic equipment.
+  image: "/images/hoop2.jpg"
+  actions:
+  - label: Learn More
+    url: "/features"
 layout: home
 menu:
   main:
