@@ -59,13 +59,6 @@ sections:
   featureslist: []
   section_id: past-events
   title: Past Events
-- template: postsblock
-  component: posts_block.html
-  bg: gray
-  type: postsblock
-  section_id: ''
-  title: ''
-  subtitle: ''
 layout: home
 menu:
   main:
