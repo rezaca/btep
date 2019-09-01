@@ -11,5 +11,6 @@ menu:
     weight: 1
 
 ---
-**Founded by Herb Bowen in 2014**   
-(Tax ID: 501c3 - #47-4752291)
+**Founded by Herb Bowen in 2014** 
+
+Our mission is to ensure no student feels mentally defeated before stepping on the field of play due to lack of athletic equipment.
