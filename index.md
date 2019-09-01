@@ -29,8 +29,8 @@ sections:
     - label: Learn More
       url: "/features"
   - title: Wellness
-    content: Helping families live proactive lives by providing free health screenings
-      to and encouraging active lifestyles.
+    content: We are helping families lead proactive, healthy, lives by providing free
+      wellness screenings and encouraging an active lifestyle through sports.
     image: "/images/lindsay-henwood-7_kRuX1hSXM-unsplash.jpg"
     actions:
     - label: Learn More
