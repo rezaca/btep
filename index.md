@@ -49,7 +49,7 @@ sections:
   component: cta_block.html
   subtitle: Saturday, October 19 in the streets of Uptown Charlotte.
   actions:
-  - label: Register
+  - label: Register a Team
     url: https://www.tourneymachine.com/E65074
 - type: postsblock
   template: postsblock
