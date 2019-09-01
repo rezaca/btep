@@ -51,6 +51,15 @@ sections:
   actions:
   - label: Register a Team
     url: https://www.tourneymachine.com/E65074
+- template: contentblock
+  component: content_block.html
+  bg: gray
+  type: contentblock
+  section_id: video
+  title: Past Events
+  content: ''
+  image: ''
+  actions: []
 - type: postsblock
   template: postsblock
   section_id: recent-posts
