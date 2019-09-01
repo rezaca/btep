@@ -72,8 +72,8 @@ sections:
       allowfullscreen></iframe>
     image: ''
     actions: []
-  section_id: ''
-  title: ''
+  section_id: past-events
+  title: Past Events
 layout: home
 menu:
   main:
