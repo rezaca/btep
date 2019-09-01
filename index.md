@@ -57,29 +57,23 @@ sections:
   type: contentblock
   section_id: video
   title: Past Events
-  content: <iframe title="vimeo-player" src="[https://player.vimeo.com/video/246318412](https://player.vimeo.com/video/246318412
-    "https://player.vimeo.com/video/246318412")" width="640" height="359" frameborder="0"
-    allowfullscreen></iframe>
+  content: ''
   image: ''
   actions: []
-- type: postsblock
-  template: postsblock
-  section_id: recent-posts
-  title: Latest Posts
-  component: posts_block.html
+- template: featuresblock
+  component: features_block.html
   bg: gray
+  type: featuresblock
   subtitle: ''
-- type: heroblock
-  template: heroblock
-  section_id: hero
-  title: Empowering the youth in our community.
-  component: hero_block.html
-  content: Our mission is to ensure no student feels mentally defeated before stepping
-    on the field of play due to lack of athletic equipment.
-  image: "/images/hoop2.jpg"
-  actions:
-  - label: Learn More
-    url: "/features"
+  featureslist:
+  - title: "2017"
+    content: <iframe title="vimeo-player" src="[https://player.vimeo.com/video/246318412](https://player.vimeo.com/video/246318412
+      "https://player.vimeo.com/video/246318412")" width="640" height="359" frameborder="0"
+      allowfullscreen></iframe>
+    image: ''
+    actions: []
+  section_id: ''
+  title: ''
 layout: home
 menu:
   main:
