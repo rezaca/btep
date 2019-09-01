@@ -17,7 +17,7 @@ sections:
   section_id: about
   title: Our Mission
   component: features_block.html
-  subtitle: Addressing the socioeconomic needs and emotional health of our communities
+  subtitle: To address the socioeconomic needs and emotional health of our communities
     through education, wellness, and leadership.
   bg: gray
   featureslist:
