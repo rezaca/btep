@@ -45,7 +45,7 @@ sections:
 - type: ctablock
   template: ctablock
   section_id: call-to-action
-  title: Why haven't you registered yet?
+  title: Play in the Heart of the City
   component: cta_block.html
   subtitle: Saturday, October 19 in the streets of Uptown Charlotte.
   actions:
