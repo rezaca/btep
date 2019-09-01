@@ -11,7 +11,7 @@ header:
     actions:
     - label: Donate
       url: https://www.paypal.com/paypalme2/Btepinc
-    - label: Register
+    - label: Register a Team
       url: https://www.tourneymachine.com/E65074
 footer:
   logo_img: "/images/bteplogoCMS.png"
