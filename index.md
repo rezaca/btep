@@ -51,29 +51,21 @@ sections:
   actions:
   - label: Register a Team
     url: https://www.tourneymachine.com/E65074
-- template: contentblock
-  component: content_block.html
-  bg: gray
-  type: contentblock
-  section_id: video
-  title: Past Events
-  content: ''
-  image: ''
-  actions: []
 - template: featuresblock
   component: features_block.html
   bg: gray
   type: featuresblock
   subtitle: ''
-  featureslist:
-  - title: "2017"
-    content: <iframe title="vimeo-player" src="[https://player.vimeo.com/video/246318412](https://player.vimeo.com/video/246318412
-      "https://player.vimeo.com/video/246318412")" width="640" height="359" frameborder="0"
-      allowfullscreen></iframe>
-    image: ''
-    actions: []
+  featureslist: []
   section_id: past-events
   title: Past Events
+- template: postsblock
+  component: posts_block.html
+  bg: gray
+  type: postsblock
+  section_id: ''
+  title: ''
+  subtitle: ''
 layout: home
 menu:
   main:
