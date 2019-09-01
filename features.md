@@ -7,7 +7,7 @@ sections:
   title: Bringing Together Extraordinary People
   component: content_block.html
   content: ''
-  image: ''
+  image: "/images/hoop2.jpg"
   bg: gray
   actions: []
 - type: ctablock
