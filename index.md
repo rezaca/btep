@@ -45,7 +45,7 @@ sections:
 - type: ctablock
   template: ctablock
   section_id: call-to-action
-  title: Sign Up Your Team for The Blacktop Jungle Today!
+  title: Why haven't you registered yet?
   component: cta_block.html
   subtitle: Saturday, October 19 in the streets of Uptown Charlotte.
   actions:
