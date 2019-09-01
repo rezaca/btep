@@ -4,7 +4,7 @@ sections:
 - type: contentblock
   template: contentblock
   section_id: features
-  title: Education
+  title: Bringing Together Extraordinary People
   component: content_block.html
   content: ''
   image: ''
