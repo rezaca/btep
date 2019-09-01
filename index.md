@@ -22,8 +22,8 @@ sections:
   bg: gray
   featureslist:
   - title: Education
-    content: Setting out to improve our underserved youth of our communities through
-      real-world applications of network building and shadowing.
+    content: We are setting out to improve the underserved youth in our communities
+      through real-world exercises in networking and shadowing.
     image: "/images/education.jpg"
     actions:
     - label: Learn More
