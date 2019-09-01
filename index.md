@@ -10,7 +10,7 @@ sections:
     held in the streets of the Queen City.
   image: "/images/action shot 2.jpg"
   actions:
-  - label: Register Your Team
+  - label: Register a Team
     url: https://www.tourneymachine.com/E65074
 - type: featuresblock
   template: featuresblock
