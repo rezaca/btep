@@ -57,7 +57,9 @@ sections:
   type: contentblock
   section_id: video
   title: Past Events
-  content: ''
+  content: <iframe title="vimeo-player" src="[https://player.vimeo.com/video/246318412](https://player.vimeo.com/video/246318412
+    "https://player.vimeo.com/video/246318412")" width="640" height="359" frameborder="0"
+    allowfullscreen></iframe>
   image: ''
   actions: []
 - type: postsblock
