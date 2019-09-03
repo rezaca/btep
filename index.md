@@ -6,11 +6,10 @@ sections:
   type: heroblock
   section_id: hero
   title: 'The Blacktop Jungle '
-  content: "The Blacktop Jungle 3v3 returns October 19th for the third year, with
-    over 100 expected teams, 400 players, and 1000 spectators from across the region.
-    All skill and age levels will converge in the streets of Uptown Charlotte for
-    a day of competition and fun in the sun.\n\nIn fact, come see why the Blacktop
-    Jungle 3v3 is becoming a premier basketball tournament in the Carolinas. "
+  content: |-
+    The Blacktop Jungle 3v3 returns October 19th for the third year, with over 100 expected teams, 400 players, and 1000 spectators from across the region. All skill and age levels as we converge on the streets of Charlotte for a day of competition and fun in the sun.
+
+    Come see why the Blacktop Jungle 3v3 is a premier basketball tournament in the Carolinas.
   image: "/images/action shot 2.jpg"
   actions:
   - label: Register a Team
