@@ -5,7 +5,7 @@ sections:
   component: hero_block.html
   type: heroblock
   section_id: hero
-  title: Ball in the Streets of Uptown Charlotte
+  title: The Blacktop Jungle 3v3
   content: Register to play in the Blacktop Jungle - the only 3v3 basketball tournament
     held in the streets of the Queen City.
   image: "/images/action shot 2.jpg"
