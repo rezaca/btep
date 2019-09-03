@@ -25,10 +25,9 @@ sections:
   bg: gray
   featureslist:
   - title: Education
-    content: |-
-      **"Time to be an Outlier"**
-
-      Setting goals to improve upon the common sense of our youth, while adhering to real-world applications to proliferate robust and diverse social networks.
+    content: "**\"Time to be an Outlier\"**\n\n  \nSetting goals to improve upon the
+      common sense of our youth, while adhering to real-world applications to proliferate
+      robust and diverse social networks."
     image: "/images/education.jpg"
     actions:
     - label: Learn More
