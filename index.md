@@ -19,13 +19,16 @@ sections:
   section_id: about
   title: Our Mission
   component: features_block.html
-  subtitle: To address the socioeconomic needs and emotional health of our communities
-    through education, wellness, and leadership.
+  subtitle: Providing youth/sports programs with new equipment, while addressing the
+    socioeconomic needs and emotional health of our communities through the initiatives
+    of education, wellness, and the eradication of bullying.
   bg: gray
   featureslist:
   - title: Education
-    content: We are setting out to improve the underserved youth in our communities
-      through real-world exercises in networking and shadowing.
+    content: |-
+      **"Time to be an Outlier"**
+
+      Setting goals to improve upon the common sense of our youth, while adhering to real-world applications to proliferate robust and diverse social networks.
     image: "/images/education.jpg"
     actions:
     - label: Learn More
