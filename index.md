@@ -29,7 +29,7 @@ sections:
       **"Time to be an Outlier"**
 
       Improving upon the common sense of our youth through real-world applications, in order to construct socially robust and diverse networks
-    image: "/images/All-Star Picture (2019).png"
+    image: "/images/Dinner 2017.jpg"
     actions:
     - label: Learn More
       url: https://vimeo.com/275668453
