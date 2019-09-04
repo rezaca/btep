@@ -63,18 +63,26 @@ sections:
 - type: ctablock
   template: ctablock
   section_id: call-to-action
-  title: Play in the Heart of the City
+  title: 'Basketball in the Streets of Uptown '
   component: cta_block.html
-  subtitle: Saturday, October 19 in the streets of Uptown Charlotte.
+  subtitle: Saturday, October 19, 2019 (Sneakers Meet Asphalt)
   actions:
   - label: Register a Team
     url: https://www.tourneymachine.com/E65074
+  - label: '2017 Blacktop Jungle '
+    url: https://instagram.com/p/BYbs_ibFwmN/
 - template: featuresblock
   component: features_block.html
   bg: gray
   type: featuresblock
   subtitle: ''
-  featureslist: []
+  featureslist:
+  - content: Back where it all began
+    image: "/images/IG9C8703.jpg"
+    actions:
+    - label: 2016 Black Jungle 3v3
+      url: https://vimeo.com/357854857
+    title: 'Event Time Capsule '
   section_id: past-events
   title: Past Events
 layout: home
