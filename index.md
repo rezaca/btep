@@ -20,8 +20,8 @@ sections:
   title: Our Mission
   component: features_block.html
   subtitle: Providing youth/sports programs with new equipment, while addressing the
-    socioeconomic needs and emotional health of our communities through the initiatives
-    of education, wellness, and the eradication of bullying.
+    socioeconomic and emotional needs of our communities through the initiatives of
+    education, wellness, and bullying prevention
   bg: gray
   featureslist:
   - title: "#BBetter "
