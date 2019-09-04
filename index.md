@@ -77,14 +77,15 @@ sections:
   type: featuresblock
   subtitle: ''
   featureslist:
-  - content: Back where it all began
+  - content: "Take a glimpse of BTEP's gigantic splash on the scene. \n\nVideo credit:
+      wheelhouse media"
     image: "/images/IG9C8703.jpg"
     actions:
     - label: 2016 Black Jungle 3v3
       url: https://vimeo.com/357854857
-    title: 'Event Time Capsule '
+    title: Back where it all began
   section_id: past-events
-  title: Past Events
+  title: Event Time Capsule
 layout: home
 menu:
   main:
