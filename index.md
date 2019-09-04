@@ -115,6 +115,13 @@ sections:
     actions:
     - label: No More StrikeOuts
       url: https://vimeo.com/220097141
+  - title: NBA All-Star Weekend
+    image: "/images/Bigger Picture (All-Star).jpg"
+    actions:
+    - label: 'Shooting Clinic at Renaissance West '
+      url: https://instagram.com/p/BuKpqKal18Q/
+    content: Over 125 youth who learned from one of the best shooting coaches in the
+      game Chris Matthews a.k.a. Lethal Shooter
   section_id: past-events
   title: Event Time Capsule
 layout: home
