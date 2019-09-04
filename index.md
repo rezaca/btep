@@ -34,7 +34,10 @@ sections:
     - label: Learn More
       url: https://vimeo.com/275668453
   - title: "#BTogether"
-    content: '**"What Makes Me Stronger"**'
+    content: |-
+      **"What Makes Me Stronger"**
+
+      Building sustainable prevention programs to mitigate the harmful effects of depression, low self-esteem and academic inefficiency caused from bullying
     image: "/images/Bullying - Independence.jpg"
     actions:
     - label: Learn More
