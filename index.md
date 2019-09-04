@@ -24,14 +24,15 @@ sections:
     of education, wellness, and the eradication of bullying.
   bg: gray
   featureslist:
-  - title: Education
-    content: "**\"Time to be an Outlier\"**\n\n  \nSetting goals to improve upon the
-      common sense of our youth, while adhering to real-world applications to proliferate
-      robust and diverse social networks."
-    image: "/images/education.jpg"
+  - title: "#BBetter "
+    content: |-
+      **"Time to be an Outlier"**
+
+      Improving upon the common sense of our youth through real-world applications in order to proliferate robust and diverse social networks
+    image: "/images/All-Star Picture (2019).png"
     actions:
     - label: Learn More
-      url: "/features"
+      url: https://vimeo.com/manage/266517864/general
   - title: Wellness
     content: We are helping families lead proactive, healthy, lives by providing free
       wellness screenings and encouraging an active lifestyle through sports.
