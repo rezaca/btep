@@ -19,14 +19,24 @@ sections:
   image: "/images/Adult winners.png"
   section_id: ''
   actions: []
-- template: featuresblock
-  component: features_block.html
+- template: contentblock
+  component: content_block.html
   bg: gray
-  type: featuresblock
+  type: contentblock
+  title: Past Winners
+  content: 2017 Adult Recreational Champions
+  image: "/images/Adult Recreational Winners.png"
   section_id: ''
-  title: ''
-  subtitle: ''
-  featureslist: []
+  actions: []
+- template: contentblock
+  component: content_block.html
+  bg: gray
+  type: contentblock
+  title: Past Winners
+  content: 2017 Youth Winners
+  image: "/images/2017 Youth Winners.png"
+  section_id: ''
+  actions: []
 layout: features
 
 ---
