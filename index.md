@@ -17,11 +17,9 @@ sections:
 - type: featuresblock
   template: featuresblock
   section_id: about
-  title: Our Mission
+  title: ''
   component: features_block.html
-  subtitle: Providing youth/sports programs with new equipment, while addressing the
-    socioeconomic and emotional needs of our communities through the initiatives of
-    education, wellness, and bullying prevention
+  subtitle: ''
   bg: gray
   featureslist:
   - title: "#BBetter "
