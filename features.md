@@ -4,21 +4,29 @@ sections:
 - type: contentblock
   template: contentblock
   section_id: features
-  title: Bringing Together Extraordinary People
+  title: 'Past Winners '
   component: content_block.html
-  content: ''
-  image: "/images/hoop2.jpg"
+  content: '2016 Blacktop Jungle Winners '
+  image: "/images/Past Winner.jpg"
   bg: gray
   actions: []
-- type: ctablock
-  template: ctablock
-  section_id: call-to-action
-  title: This Is Call to Action Block!
-  component: cta_block.html
-  subtitle: This is an optional description for the call to action block.
-  actions:
-  - label: Get Started
-    url: "#"
+- template: contentblock
+  component: content_block.html
+  bg: gray
+  type: contentblock
+  title: 'Past Winners '
+  content: 2017 Adult Elite Champions
+  image: "/images/Adult winners.png"
+  section_id: ''
+  actions: []
+- template: featuresblock
+  component: features_block.html
+  bg: gray
+  type: featuresblock
+  section_id: ''
+  title: ''
+  subtitle: ''
+  featureslist: []
 layout: features
 
 ---
