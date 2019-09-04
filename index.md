@@ -17,7 +17,7 @@ sections:
 - type: featuresblock
   template: featuresblock
   section_id: about
-  title: ''
+  title: Snapshots
   component: features_block.html
   subtitle: ''
   bg: gray
