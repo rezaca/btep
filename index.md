@@ -17,7 +17,7 @@ sections:
 - type: featuresblock
   template: featuresblock
   section_id: about
-  title: Snapshots
+  title: ''
   component: features_block.html
   subtitle: ''
   bg: gray
@@ -132,6 +132,5 @@ layout: home
 menu:
   main:
     weight: 1
-published: false
 
 ---
