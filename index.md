@@ -102,6 +102,13 @@ sections:
       One small ripple can affect the whole pond
 
       \#BTogether
+  - title: An Art Excursion
+    content: Here is where students are provided with opportunities and experiences
+      within potential art careers
+    image: "/images/Neiman Marcus.png"
+    actions:
+    - url: https://instagram.com/p/Bl6UfHal1Mb/
+      label: "#BExpressive Art Tour (Neiman Marcus)"
   section_id: past-events
   title: Event Time Capsule
 layout: home
