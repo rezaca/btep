@@ -109,6 +109,12 @@ sections:
     actions:
     - url: https://instagram.com/p/Bl6UfHal1Mb/
       label: "#BExpressive Art Tour (Neiman Marcus)"
+  - title: Grant Recipient
+    content: 'Awarded to the Philip O Berry Baseball Team '
+    image: "/images/Phillip O Berry Giveaway.JPG"
+    actions:
+    - label: No More StrikeOuts
+      url: https://vimeo.com/220097141
   section_id: past-events
   title: Event Time Capsule
 layout: home
