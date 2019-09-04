@@ -81,9 +81,18 @@ sections:
       wheelhouse media"
     image: "/images/IG9C8703.jpg"
     actions:
-    - label: 2016 Black Jungle 3v3
+    - label: Back where it all began
       url: https://vimeo.com/357854857
-    title: Back where it all began
+    title: 2016 Black Jungle 3v3
+  - image: "/images/2017 3v3.jpg"
+    actions:
+    - label: Getting Results
+      url: https://vimeo.com/357895114
+    title: 2017 Blacktop Jungle 3v3
+    content: |-
+      Improving upon the success of our prior year
+
+      Video credit: BNR
   section_id: past-events
   title: Event Time Capsule
 layout: home
