@@ -42,13 +42,15 @@ sections:
     actions:
     - label: Learn More
       url: https://vimeo.com/357870144
-  - title: Leadership
-    content: We are helping students rise above unmitigated circumstances through
-      constructive avenues of expression.
-    image: "/images/leader.jpg"
+  - title: "#BTogether"
+    content: |-
+      **"What Makes Me Stronger"**
+
+      Creating a holistic approach through constructive avenues of expression to enhance personal growth, artistic achievement, and prevention programs geared towards the eradication of bullying
+    image: "/images/Bullying - Independence.jpg"
     actions:
     - label: Learn More
-      url: "/features"
+      url: https://vimeo.com/275668453
 - type: ctablock
   template: ctablock
   section_id: call-to-action
