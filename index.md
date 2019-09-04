@@ -33,6 +33,21 @@ sections:
     actions:
     - label: Learn More
       url: https://vimeo.com/275668453
+  - title: "#BTogether"
+    content: '**"What Makes Me Stronger"**'
+    image: "/images/Bullying - Independence.jpg"
+    actions:
+    - label: Learn More
+      url: https://vimeo.com/275668453
+  - title: "#BExpressive"
+    content: |-
+      **"Esse Quam Videri"**
+
+      Creating constructive avenues of expression through regional art competitions to enhance personal growth and artistic achievements of each individual
+    image: "/images/Neiman Marcus - Art.jpg"
+    actions:
+    - label: 'Learn More '
+      url: https://instagram.com/p/Bl6UfHal1Mb/
   - title: "#BProactive"
     content: |-
       **"How to Save a Life"**
@@ -42,15 +57,6 @@ sections:
     actions:
     - label: Learn More
       url: https://vimeo.com/357870144
-  - title: "#BTogether"
-    content: |-
-      **"What Makes Me Stronger"**
-
-      Creating holistic, constructive avenues of expression to enhance personal growth, artistic achievement, and prevention programs against bullying
-    image: "/images/Bullying - Independence.jpg"
-    actions:
-    - label: Learn More
-      url: https://vimeo.com/275668453
 - type: ctablock
   template: ctablock
   section_id: call-to-action
