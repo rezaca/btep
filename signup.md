@@ -1,14 +1,45 @@
 ---
-title: The Blacktop Jungle
-subtitle: This is an optional subtitle. It can be used to describe what this page
-  is about.
-img_path: images/11.jpg
+title: The Blacktop Jungle 3v3 (In the Streets)
+subtitle: ''
+img_path: "/images/BTEP 3v3.png"
 layout: page
 menu:
   secondary:
     weight: 2
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula, eu malesuada tortor eros dapibus mi. Proin laoreet efficitur suscipit. Donec molestie volutpat euismod. Nulla gravida ligula in eros facilisis, sed dignissim tellus aliquam. Etiam convallis enim nisi, at suscipit tortor pulvinar at. Nulla a interdum lacus. Sed a porttitor mi. Sed at risus eu orci ultricies mattis sed in tellus. Cras nec neque sed dui vehicula iaculis id vel ex. Phasellus non consectetur augue. Pellentesque condimentum sapien arcu, nec tempus nunc maximus eu. Duis blandit risus nulla. In dolor dui, placerat non finibus sit amet, venenatis pretium tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+**The Purpose** 
 
-Nunc a lorem tellus. Aenean eu auctor purus. Cras pulvinar, nunc at sagittis dignissim, orci elit auctor leo, et consectetur est turpis a nunc. Vivamus in faucibus felis. Aenean rutrum magna at ex auctor, congue efficitur ligula feugiat. Proin a egestas arcu. Etiam feugiat turpis quis mollis pellentesque. Sed posuere luctus tortor, a eleifend augue varius sit amet. Integer ultrices neque sed quam dictum, quis vestibulum justo volutpat. Nam vitae tempus leo, ut mattis mi.
+Invests in social equity through the medium of sports to build up trust between races
+
+Engages a multi-faceted tapestry of identities that foster a network of inclusivity and cohesion
+
+Encourages inspiration through perspiration by drawing out our innermost child to have fun in the sun
+
+Creates an intersectionality between communities through the removal of economic and/or cultural barriers
+
+**Detailed Event Information**
+
+Date: October 19th, 2019        
+
+Time: 9:00am – 6:00pm 3v3 Tournament
+
+**L**ocation: 330 North Tryon Street, Charlotte, NC
+
+_*Adult winners to be featured in Uptown kiosks_
+
+_*Winners to receive special prizes_
+
+**Divisions**:
+
+Youth Elite
+
+Adult Elite
+
+Youth Recreational
+
+Adult Recreational
+
+Coed
+
+Corporate
