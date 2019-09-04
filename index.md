@@ -32,7 +32,7 @@ sections:
     image: "/images/Dinner 2017.jpg"
     actions:
     - label: Learn More
-      url: https://vimeo.com/275668453
+      url: https://instagram.com/p/BkIWFAmFReQ/
   - title: "#BTogether"
     content: |-
       **"What Makes Me Stronger"**
