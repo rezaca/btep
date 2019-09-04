@@ -122,6 +122,12 @@ sections:
       url: https://instagram.com/p/BuKpqKal18Q/
     content: Over 125 youth who learned from one of the best shooting coaches in the
       game Chris Matthews a.k.a. Lethal Shooter
+  - title: 'Celebrity Basketball Game '
+    content: 'Proceeds to Benefit Starz24 '
+    image: "/images/Celebrity Game.png"
+    actions:
+    - label: Who do you Recognize?
+      url: https://instagram.com/p/BTuZOMflOKH/
   section_id: past-events
   title: Event Time Capsule
 layout: home
