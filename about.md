@@ -1,7 +1,7 @@
 ---
 title: About Us
-subtitle: 'Tax ID: 501c3 - #47-4752291'
-img_path: "/images/bus stop.png"
+subtitle: ''
+img_path: "/images/About Us (Harding U).png"
 layout: page
 menu:
   main:
@@ -11,6 +11,22 @@ menu:
     weight: 1
 
 ---
-**Founded by Herb Bowen in 2014** 
+**Btep Overview**
 
-Our mission is to ensure no student feels mentally defeated before stepping on the field of play due to lack of athletic equipment.
+Founded in 2014
+
+501 c3 Nonprofit _(Tax ID # 47-4752291)_
+
+Cementing the pillars of education, wellness, and the eradication of bullying
+
+Leveraging the athletic platform to address the socioeconomic needs and emotional health of our cities
+
+**Btep Values** 
+
+Raising up youth with hearts to give back to their communities
+
+Embracing wellness through sport-related competition and healthy lifestyle choices
+
+Creating a holistic approach to enhance personal growth, artistic achievement, and academic progress
+
+Aiding students in creating sustainable prevention programs to eradicate bullying in their schools
