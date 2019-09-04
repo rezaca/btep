@@ -32,7 +32,7 @@ sections:
     image: "/images/All-Star Picture (2019).png"
     actions:
     - label: Learn More
-      url: https://vimeo.com/manage/266517864/general
+      url: https://vimeo.com/275668453
   - title: "#BProactive"
     content: |-
       **"How to Save a Life"**
@@ -46,7 +46,7 @@ sections:
     content: |-
       **"What Makes Me Stronger"**
 
-      Creating a holistic approach through constructive avenues of expression to enhance personal growth, artistic achievement, and prevention programs geared towards the eradication of bullying
+      Creating holistic, constructive avenues of expression to enhance personal growth, artistic achievement, and prevention programs against bullying
     image: "/images/Bullying - Independence.jpg"
     actions:
     - label: Learn More
