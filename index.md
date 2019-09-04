@@ -93,6 +93,15 @@ sections:
       Improving upon the success of our prior year
 
       Video credit: BNR
+  - title: 'Anti-Bullying Rally '
+    image: "/images/30604173_252491185295487_1629953596504145920_n.jpg"
+    actions:
+    - label: 'Reid Park Elementary '
+      url: https://vimeo.com/220097530
+    content: |-
+      One small ripple can affect the whole pond
+
+      \#BTogether
   section_id: past-events
   title: Event Time Capsule
 layout: home
