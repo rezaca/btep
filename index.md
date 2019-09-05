@@ -28,7 +28,7 @@ sections:
     content: |-
       **"Time to be an Outlier"**
 
-      Improving upon the common sense of our youth through real-world applications, in order to construct socially robust and diverse networks
+      Improving upon the common sense of our youth through real-world applications, in order to construct socially robust and diverse networks.
     image: "/images/Dinner 2017.jpg"
     actions:
     - label: Learn More
@@ -37,7 +37,7 @@ sections:
     content: |-
       **"What Makes Me Stronger"**
 
-      Building sustainable prevention programs to mitigate the harmful effects of depression, low self-esteem and academic inefficiency caused from bullying
+      Building sustainable prevention programs to mitigate the harmful effects of depression, low self-esteem and academic inefficiency caused from bullying.
     image: "/images/Bullying - Independence.jpg"
     actions:
     - label: Learn More
@@ -46,7 +46,7 @@ sections:
     content: |-
       **"Esse Quam Videri"**
 
-      Creating constructive avenues of expression through regional art competitions to enhance personal growth and artistic achievements of each individual
+      Creating constructive avenues of expression through regional art competitions to enhance personal growth and artistic achievements of each individual.
     image: "/images/Neiman Marcus - Art.jpg"
     actions:
     - label: 'Learn More '
@@ -55,7 +55,7 @@ sections:
     content: |-
       **"How to Save a Life"**
 
-      Embracing wellness through sport-related competition and free medical screenings to encourage individuals to lead healthy lives
+      Embracing wellness through sport-related competition and free medical screenings to encourage individuals to lead healthy lives.
     image: "/images/Healthy Choice (2019).jpg"
     actions:
     - label: Learn More
