@@ -6,5 +6,6 @@ menu:
     weight: 3
   main:
     weight: 4
+published: false
 
 ---
