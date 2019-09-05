@@ -6,11 +6,12 @@ sections:
   type: heroblock
   section_id: hero
   title: 'The Blacktop Jungle '
-  content: "The Blacktop Jungle 3v3 returns October 19th, 2019 for the third year,
-    with 100+ expected teams and 1000 spectators from across the region. \n\nAll skill
-    and age levels are welcome as we converge upon the streets of Uptown Charlotte
-    for a day of competition and fun in the sun.\n\nCome see why the Blacktop Jungle
-    3v3 is a premier basketball tournament in the Carolinas."
+  content: |-
+    The Blacktop Jungle 3v3 in partnership with Charlotte Center City Partners returns October 19th, 2019 for a third year, with 100+ expected teams and 1000 spectators from across the region.
+
+    All skill and age levels are welcome as we converge upon the streets of Uptown Charlotte for a day of competition and fun in the sun.
+
+    Come see why the Blacktop Jungle 3v3 is a premier basketball tournament in the Carolinas.
   image: "/images/3v3 2019.jpg"
   actions:
   - label: Register Your Team(s)
