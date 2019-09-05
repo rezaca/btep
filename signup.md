@@ -1,6 +1,6 @@
 ---
 title: The Blacktop Jungle
-subtitle: https://www.tourneymachine.com/E65074
+subtitle: ''
 img_path: "/images/BTEP 3v3.png"
 layout: page
 menu:
@@ -20,15 +20,15 @@ Creates an intersectionality between communities through the removal of economic
 
 **Event Information**
 
-Date: October 19th, 2019                                                                                 
+Date: October 19th, 2019
 
-Time: 9:00am – 6:00pm 3v3 Tournament                                                            
+Time: 9:00am – 6:00pm 3v3 Tournament
 
 Location: 330 North Tryon Street, Charlotte, NC
 
-\*Youth Winners prequalify for the 2020 Junior Olympics                                                                               
+\*Youth Winners prequalify for the 2020 Junior Olympics
 
-_*Adult winners to be featured in Uptown kiosks_                                               
+_*Adult winners to be featured in Uptown kiosks_
 
 _*Winners will receive special prizes_
 
@@ -37,3 +37,7 @@ _*Winners will receive special prizes_
 Youth Elite / Adult Elite / Youth Recreational
 
 Adult Recreational/ Coed / Corporate
+
+**Click the Link to Register:**
+
+[https://www.tourneymachine.com/E65074](https://www.tourneymachine.com/E65074 "https://www.tourneymachine.com/E65074")
