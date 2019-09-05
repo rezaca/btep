@@ -1,6 +1,6 @@
 ---
-title: The Blacktop Jungle 3v3 (In the Streets)
-subtitle: ''
+title: 'The Blacktop Jungle 3v3 '
+subtitle: In the Streets
 img_path: "/images/BTEP 3v3.png"
 layout: page
 menu:
