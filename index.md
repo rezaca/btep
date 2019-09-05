@@ -83,50 +83,18 @@ sections:
     content: 'Winners: Playbook For Life - Adult Division'
     image: "/images/Past Winner.jpg"
     actions: []
-  - image: "/images/2017 3v3.jpg"
-    actions:
-    - label: Getting Results
-      url: https://vimeo.com/357895114
+  - image: "/images/2017 Youth Winners.png"
+    actions: []
     title: 2017 Blacktop Jungle 3v3
-    content: |-
-      Improving upon the success of our prior year
-
-      Video credit: BNR
-  - title: 'Anti-Bullying Rally '
-    image: "/images/30604173_252491185295487_1629953596504145920_n.jpg"
-    actions:
-    - label: 'Reid Park Elementary '
-      url: https://vimeo.com/220097530
-    content: |-
-      One small ripple can affect the whole pond
-
-      \#BTogether
-  - title: An Art Excursion
-    content: Here is where students are provided with opportunities and experiences
-      within potential art careers
-    image: "/images/Neiman Marcus.png"
-    actions:
-    - url: https://instagram.com/p/Bl6UfHal1Mb/
-      label: "#BExpressive Art Tour (Neiman Marcus)"
-  - title: Grant Recipient
-    content: 'Awarded to the Philip O Berry Baseball Team '
-    image: "/images/Phillip O Berry Giveaway.JPG"
-    actions:
-    - label: No More StrikeOuts
-      url: https://vimeo.com/220097141
-  - title: NBA All-Star Weekend
-    image: "/images/Bigger Picture (All-Star).jpg"
-    actions:
-    - label: 'Shooting Clinic at Renaissance West '
-      url: https://instagram.com/p/BuKpqKal18Q/
-    content: Over 125 youth who learned from one of the best shooting coaches in the
-      game Chris Matthews a.k.a. Lethal Shooter
-  - title: 'Celebrity Basketball Game '
-    content: 'Proceeds to Benefit Starz24 '
-    image: "/images/Celebrity Game.png"
-    actions:
-    - label: Who do you Recognize?
-      url: https://instagram.com/p/BTuZOMflOKH/
+    content: 'Winners: Myers Park - Youth Division'
+  - title: 2017 Blacktop Jungle 3v3
+    image: "/images/Adult Recreational Winners.png"
+    actions: []
+    content: 'Winners: Mars - Adult Recreational '
+  - title: '2017 Blacktop Jungle '
+    content: 'Winners: Team Emilio - Adult Elite '
+    image: "/images/Adult winners.png"
+    actions: []
   section_id: past-events
   title: Winner Time Capsule
 layout: home
