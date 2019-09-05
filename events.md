@@ -7,12 +7,11 @@ sections:
   type: contentblock
   section_id: ''
   title: 2019 Blacktop Jungle 3v3
-  content: |-
-    Who will reign supreme as our next victors?
-
-    Flyer credit: @techytk
+  content: Who will reign supreme as our next victors?
   image: "/images/BTEP 3v3.png"
-  actions: []
+  actions:
+  - label: 'Flyer Credit '
+    url: https://instagram.com/p/Bxsv-J_H2yc/
 - template: contentblock
   component: content_block.html
   bg: gray
