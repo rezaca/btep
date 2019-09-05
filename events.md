@@ -5,6 +5,18 @@ sections:
   component: content_block.html
   bg: gray
   type: contentblock
+  section_id: 2019 Blacktop Jungle 3v3
+  title: ''
+  content: |-
+    Who will reign supreme as our next victors?
+
+    Flyer credit: @techytk
+  image: "/images/BTEP 3v3.png"
+  actions: []
+- template: contentblock
+  component: content_block.html
+  bg: gray
+  type: contentblock
   section_id: ''
   title: 2016 Blacktop Jungle 3v3
   content: Take a glimpse into btep's gigantic splash on the scene
