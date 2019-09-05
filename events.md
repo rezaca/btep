@@ -16,17 +16,6 @@ sections:
   component: content_block.html
   bg: gray
   type: contentblock
-  section_id: ''
-  title: 2016 Blacktop Jungle 3v3
-  content: Take a glimpse into btep's gigantic splash on the scene
-  image: "/images/IG9C8703.jpg"
-  actions:
-  - label: Back Where it All Began
-    url: https://vimeo.com/357854857
-- template: contentblock
-  component: content_block.html
-  bg: gray
-  type: contentblock
   title: 2017 Blacktop Jungle
   content: Improving upon the success of our prior years
   image: "/images/2017 3v3.jpg"
@@ -34,6 +23,17 @@ sections:
   - label: 'Getting Results '
     url: https://vimeo.com/357895114
   section_id: ''
+- template: contentblock
+  component: content_block.html
+  bg: gray
+  type: contentblock
+  section_id: ''
+  title: 2016 Blacktop Jungle 3v3
+  content: Take a glimpse into btep's gigantic splash on the scene
+  image: "/images/IG9C8703.jpg"
+  actions:
+  - label: Back Where it All Began
+    url: https://vimeo.com/357854857
 - template: contentblock
   component: content_block.html
   bg: gray
