@@ -1,7 +1,7 @@
 ---
 title: Contact
 layout: contact
-subtitle: "             For any inquiries regarding please email us"
+subtitle: 'Please email any inquiries regarding below '
 img_path: "/images/BTEP_tree-1.png"
 menu:
   secondary:
