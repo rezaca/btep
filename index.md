@@ -6,7 +6,7 @@ sections:
   type: heroblock
   section_id: hero
   title: 'The Blacktop Jungle '
-  content: "The Blacktop Jungle 3v3 returns October 19th for the third year, with
+  content: "The 3v3 tournament returns October 19th, 2019 for the third year, with
     100+ expected teams, 400 players, and 1000 spectators from across the region.
     \n\nAll skill and age levels are welcome as we converge upon the streets of Uptown
     Charlotte for a day of competition and fun in the sun.\n\nCome see why the Blacktop
