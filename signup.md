@@ -8,7 +8,7 @@ menu:
     weight: 2
 
 ---
-**The Purpose** 
+**The Purpose**
 
 Invests in social equity through the medium of sports to build up trust between races
 
@@ -18,28 +18,14 @@ Encourages inspiration through perspiration by drawing out our innermost child t
 
 Creates an intersectionality between communities through the removal of economic and/or cultural barriers
 
-**Detailed Event Information**
+**Event Information**
 
-Date: October 19th, 2019        
+Date: October 19th, 2019                                                                                 Time: 9:00am – 6:00pm 3v3 Tournament                                                            Location: 330 North Tryon Street, Charlotte, NC   
 
-Time: 9:00am – 6:00pm 3v3 Tournament
-
-**L**ocation: 330 North Tryon Street, Charlotte, NC
-
-_*Adult winners to be featured in Uptown kiosks_
-
-_*Winners to receive special prizes_
+\*Youth Winners prequalify for the 2020 Junior Olympics                                                                               _*Adult winners to be featured in Uptown kiosks                                               *Winners will receive special prizes_
 
 **Divisions**:
 
-Youth Elite
+Youth Elite / Adult Elite / Youth Recreational
 
-Adult Elite
-
-Youth Recreational
-
-Adult Recreational
-
-Coed
-
-Corporate
+Adult Recreational/ Coed / Corporate
