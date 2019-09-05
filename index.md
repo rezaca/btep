@@ -75,13 +75,10 @@ sections:
   type: featuresblock
   subtitle: ''
   featureslist:
-  - content: "Take a glimpse of BTEP's gigantic splash on the scene. \n\nVideo credit:
-      wheelhouse media"
+  - content: 'Winners: POB Cardinals - Youth Division'
     image: "/images/IG9C8703.jpg"
-    actions:
-    - label: Back where it all began
-      url: https://vimeo.com/357854857
-    title: 2016 Black Jungle 3v3
+    actions: []
+    title: 2016 Blacktop Jungle 3v3
   - image: "/images/2017 3v3.jpg"
     actions:
     - label: Getting Results
@@ -127,7 +124,7 @@ sections:
     - label: Who do you Recognize?
       url: https://instagram.com/p/BTuZOMflOKH/
   section_id: past-events
-  title: Event Time Capsule
+  title: Winner Time Capsule
 layout: home
 menu:
   main:
