@@ -7,11 +7,11 @@ sections:
   section_id: hero
   title: 'The Blacktop Jungle '
   content: |-
-    3v3 is back with partners Charlotte Center City Partners and AAU on October 19th, 2019 to host 100+ expected teams and 1000 spectators from across the region in its third year
+    3v3 is back with Charlotte Center City Partners and AAU on October 19th, 2019 to host 100+ expected teams and 1000 spectators from across the region
 
     All skill and age levels are welcome as we converge upon the streets of Uptown Charlotte for a day of competition and fun in the sun.
 
-    Come see why the Blacktop Jungle 3v3 is becoming a premier basketball tournament in the Carolinas.
+    Come see why the Blacktop Jungle 3v3 in its thrid year is becoming a premier basketball tournament in the Carolinas.
   image: "/images/3v3 2019.jpg"
   actions:
   - label: Register Your Team(s)
