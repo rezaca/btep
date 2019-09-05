@@ -65,7 +65,7 @@ sections:
   title: NBA All-Star Weekend
   content: 125+ youth was taught by the best shooting coach in the game Chris Matthews
     a.k.a. Lethal Shooter
-  image: "/images/All-Star Picture (2019).png"
+  image: "/images/Bigger Picture (All-Star).jpg"
   actions:
   - url: https://instagram.com/p/BuFWVFclpzO/
     label: 'Shooting Clinic at Renaissance West '
