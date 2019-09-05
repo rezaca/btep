@@ -63,9 +63,9 @@ sections:
 - type: ctablock
   template: ctablock
   section_id: call-to-action
-  title: 'Basketball in the Streets of Uptown '
+  title: 'Shutting Down the Streets of Uptown '
   component: cta_block.html
-  subtitle: 'Saturday, October 19, 2019 '
+  subtitle: '10/19/2019 '
   actions:
   - label: Register a Team
     url: https://www.tourneymachine.com/E65074
