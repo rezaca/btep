@@ -12,6 +12,69 @@ sections:
   actions:
   - label: Back Where it All Began
     url: https://vimeo.com/357854857
+- template: contentblock
+  component: content_block.html
+  bg: gray
+  type: contentblock
+  title: 2017 Blacktop Jungle
+  content: Improving upon the success of our prior years
+  image: "/images/2017 3v3.jpg"
+  actions:
+  - label: 'Getting Results '
+    url: https://vimeo.com/357895114
+  section_id: ''
+- template: contentblock
+  component: content_block.html
+  bg: gray
+  type: contentblock
+  title: 'Anti-Bullying Rally '
+  content: One small ripple can affect the whole pond
+  image: "/images/30604173_252491185295487_1629953596504145920_n.jpg"
+  actions:
+  - label: Reid Park Elementary
+    url: https://vimeo.com/357895114
+  section_id: ''
+- template: contentblock
+  component: content_block.html
+  bg: gray
+  type: contentblock
+  title: An Art Exclusion
+  content: Providing youth with the opportunities to explore and engage the creative
+    process within potential art careers
+  image: "/images/Neiman Marcus.png"
+  actions:
+  - label: Neiman Marcus Art Tour
+    url: https://instagram.com/p/Bl6UfHal1Mb/
+  section_id: ''
+- template: contentblock
+  component: content_block.html
+  bg: gray
+  type: contentblock
+  title: 'Grant Recipient '
+  content: Awarded to Philip O Berry Baseball Team
+  image: "/images/Phillip O Berry Giveaway.JPG"
+  actions:
+  - label: No More Strikeouts
+    url: https://vimeo.com/220097141
+  section_id: ''
+- template: contentblock
+  component: content_block.html
+  bg: gray
+  type: contentblock
+  section_id: ''
+  title: ''
+  content: ''
+  image: ''
+  actions: []
+- template: contentblock
+  component: content_block.html
+  bg: gray
+  type: contentblock
+  section_id: ''
+  title: ''
+  content: ''
+  image: ''
+  actions: []
 layout: pricing
 menu:
   main:
