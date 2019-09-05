@@ -11,7 +11,7 @@ menu:
     weight: 2
 
 ---
-### **Btep Overview**
+### **btep Overview**
 
 Founded in 2014
 
@@ -21,7 +21,7 @@ Cementing the pillars of education, wellness, and the eradication of bullying
 
 Leveraging the athletic platform to address the socioeconomic needs and emotional health of our cities
 
-### **Btep Values**
+### **btep Values**
 
 Raising up youth with hearts to give back to their communities
 
