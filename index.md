@@ -63,7 +63,7 @@ sections:
   section_id: call-to-action
   title: 'Basketball in the Streets of Uptown '
   component: cta_block.html
-  subtitle: Saturday, October 19, 2019 (Sneakers Meet Asphalt)
+  subtitle: 'Saturday, October 19, 2019 '
   actions:
   - label: Register a Team
     url: https://www.tourneymachine.com/E65074
