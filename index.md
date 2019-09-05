@@ -10,7 +10,8 @@ sections:
     and AAU returns October 19th, 2019 to host 100+ expected teams and 1000 spectators
     from across the region \n\nAll skill and age levels are welcome as we converge
     upon the streets of Uptown Charlotte for a day of competition and fun in the sun.\n\nCome
-    see why the Blacktop Jungle 3v3 is a premier basketball tournament in the Carolinas."
+    see why the Blacktop Jungle 3v3 in its thrid year is becoming a premier basketball
+    tournament in the Carolinas."
   image: "/images/3v3 2019.jpg"
   actions:
   - label: Register Your Team(s)
