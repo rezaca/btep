@@ -7,7 +7,7 @@ sections:
   section_id: hero
   title: 'The Blacktop Jungle '
   content: |-
-    3v3 is back with Charlotte Center City Partners and AAU on October 19th, 2019 to host 100+ expected teams and 1000 spectators from across the region
+    3v3 is back with Charlotte Center City Partners and AAU on October 19th, 2019 to host 100+ expected teams and 1000 spectators from across the region.
 
     All skills and age levels are welcome as we converge upon the streets of Uptown Charlotte for a day of competition and fun in the sun.
 
