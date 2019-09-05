@@ -6,7 +6,6 @@ layout: page
 menu:
   secondary:
     weight: 2
-published: false
 
 ---
 **The Purpose**
@@ -21,9 +20,17 @@ Creates an intersectionality between communities through the removal of economic
 
 **Event Information**
 
-Date: October 19th, 2019                                                                                 Time: 9:00am – 6:00pm 3v3 Tournament                                                            Location: 330 North Tryon Street, Charlotte, NC   
+Date: October 19th, 2019                                                                                 
 
-\*Youth Winners prequalify for the 2020 Junior Olympics                                                                               _*Adult winners to be featured in Uptown kiosks                                               *Winners will receive special prizes_
+Time: 9:00am – 6:00pm 3v3 Tournament                                                            
+
+Location: 330 North Tryon Street, Charlotte, NC
+
+\*Youth Winners prequalify for the 2020 Junior Olympics                                                                               
+
+_*Adult winners to be featured in Uptown kiosks_                                               
+
+_*Winners will receive special prizes_
 
 **Divisions**:
 
