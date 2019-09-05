@@ -74,10 +74,12 @@ sections:
   bg: gray
   type: contentblock
   section_id: ''
-  title: ''
-  content: ''
-  image: ''
-  actions: []
+  title: 'Celebrity Game '
+  content: Proceeds benefited Starz24
+  image: "/images/Celebrity Game.png"
+  actions:
+  - label: Who Do You Recognize
+    url: https://instagram.com/p/BTCwdBTFKxl/
 layout: pricing
 menu:
   main:
