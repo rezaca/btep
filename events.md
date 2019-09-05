@@ -7,7 +7,7 @@ sections:
   type: contentblock
   section_id: ''
   title: 2016 Blacktop Jungle 3v3
-  content: Take a glimpse into Btep's gigantic splash on the scene
+  content: Take a glimpse into btep's gigantic splash on the scene
   image: "/images/IG9C8703.jpg"
   actions:
   - label: Back Where it All Began
