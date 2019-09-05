@@ -10,7 +10,7 @@ sections:
   content: Who will reign supreme as our next victors?
   image: "/images/BTEP 3v3.png"
   actions:
-  - label: 'Flyer Credit '
+  - label: 'Flyer Creator '
     url: https://instagram.com/p/Bxsv-J_H2yc/
 - template: contentblock
   component: content_block.html
