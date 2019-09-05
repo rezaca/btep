@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Contact Us
 layout: contact
 subtitle: ''
 img_path: "/images/BTEP_tree-1.png"
