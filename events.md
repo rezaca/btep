@@ -5,8 +5,8 @@ sections:
   component: content_block.html
   bg: gray
   type: contentblock
-  section_id: 2019 Blacktop Jungle 3v3
-  title: ''
+  section_id: ''
+  title: 2019 Blacktop Jungle 3v3
   content: |-
     Who will reign supreme as our next victors?
 
