@@ -6,7 +6,6 @@ layout: page
 menu:
   secondary:
     weight: 2
-published: false
 
 ---
 **The Purpose**
