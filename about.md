@@ -11,12 +11,22 @@ menu:
     weight: 2
 
 ---
-**Btep Overview**
+### **Btep Overview**
 
-Founded in 2014                                                                                                 501 c3 Nonprofit _(Tax ID # 47-4752291)_
+Founded in 2014
 
-Cementing the pillars of education, wellness, and the eradication of bullying Leveraging the athletic platform to address the socioeconomic needs and emotional health of our cities
+501 c3 Nonprofit _(Tax ID # 47-4752291)_
 
-**Btep Values**
+Cementing the pillars of education, wellness, and the eradication of bullying
 
-Raising up youth with hearts to give back to their communities               Embracing wellness through sport-related competition and healthy lifestyle choices                                                                                                       Creating a holistic approach to enhance personal growth, artistic achievement, and academic progress                                                                                     Aiding students in creating sustainable prevention  programs to eradicate bullying in their schools
+Leveraging the athletic platform to address the socioeconomic needs and emotional health of our cities
+
+### **Btep Values**
+
+Raising up youth with hearts to give back to their communities
+
+Embracing wellness through sport-related competition and healthy lifestyle choices
+
+Creating a holistic approach to enhance personal growth, artistic achievement, and academic progress
+
+Aiding students in creating sustainable prevention programs to eradicate bullying in their schools
