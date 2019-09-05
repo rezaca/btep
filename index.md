@@ -79,6 +79,10 @@ sections:
     image: "/images/IG9C8703.jpg"
     actions: []
     title: 2016 Blacktop Jungle 3v3
+  - title: 2016 Blacktop Jungle 3v3
+    content: 'Winners: Playbook For Life - Adult Division'
+    image: "/images/Past Winner.jpg"
+    actions: []
   - image: "/images/2017 3v3.jpg"
     actions:
     - label: Getting Results
