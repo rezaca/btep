@@ -1,7 +1,7 @@
 ---
 title: About Us
 subtitle: ''
-img_path: "/images/About Us (Harding U).png"
+img_path: "/images/Lethal Shooter.jpg"
 layout: page
 menu:
   secondary:
