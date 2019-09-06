@@ -52,11 +52,6 @@ sections:
   exclude: "{_posts/**,README.md,LICENSE.md,index.md,pricing.md,features.md,blog/index.md,contact.md}"
   templates:
   - page
-- type: jekyll-posts
-  label: Post
-  create: all
-  templates:
-  - post
 upload_dir: images
 public_path: "/images"
 front_matter_path: ''
