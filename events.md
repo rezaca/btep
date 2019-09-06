@@ -14,7 +14,7 @@ sections:
 layout: pricing
 menu:
   main:
-    weight: 5
+    weight: 2
     title: 'Board '
 
 ---

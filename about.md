@@ -8,7 +8,7 @@ menu:
     weight: 1
     title: About
   main:
-    weight: 3
+    weight: 4
     title: About
 
 ---
