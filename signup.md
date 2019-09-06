@@ -5,7 +5,7 @@ img_path: "/images/BTEP 3v3.png"
 layout: page
 menu:
   secondary:
-    weight: 1
+    weight: 2
 
 ---
 **The Purpose**
