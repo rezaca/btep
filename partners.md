@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Partners
-subtitle: Past & Present
+title: Past & Present Partners
+subtitle: ''
 img_path: ''
 menu:
   secondary:
