@@ -36,7 +36,7 @@ sections:
   title: About Us
 menu:
   secondary:
-    weight: 3
+    weight: 1
     title: About
   main:
     weight: 2
