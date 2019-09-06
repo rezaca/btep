@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Past Winners
 sections:
 - type: contentblock
   template: contentblock
