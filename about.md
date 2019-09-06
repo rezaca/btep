@@ -6,6 +6,7 @@ layout: page
 menu:
   secondary:
     weight: 1
+    title: About
   main:
     title: About
     weight: 2
