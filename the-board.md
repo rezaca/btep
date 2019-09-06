@@ -5,7 +5,6 @@ menu:
   main:
     weight: 5
     title: 'Board '
-published: false
 
 ---
 Kat Ruland
