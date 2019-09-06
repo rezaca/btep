@@ -1,6 +1,10 @@
 {
   "links": [
     {
+      "title": "Events",
+      "url": "http://b4dzsvxifstsoq.instant.forestry.io/events/"
+    },
+    {
       "type": "twitter",
       "title": "Twitter",
       "url": "https://twitter.com/btepinc"
