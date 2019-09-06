@@ -4,6 +4,9 @@ subtitle: ''
 img_path: "/images/Check to Harding.JPG"
 layout: page
 menu:
+  secondary:
+    weight: 1
+    title: About
   main:
     weight: 2
     title: About
