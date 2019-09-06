@@ -1,5 +1,5 @@
 ---
-title: Events-(copy)
+title: Events
 sections:
 - template: contentblock
   component: content_block.html
