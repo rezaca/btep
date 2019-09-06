@@ -24,7 +24,7 @@ sections:
   subtitle: ''
   bg: gray
   featureslist:
-  - title: "#BBetter "
+  - title: "#bBetter "
     content: |-
       **"Time to be an Outlier"**
 
@@ -33,7 +33,7 @@ sections:
     actions:
     - label: Learn More
       url: https://instagram.com/p/BkIWFAmFReQ/
-  - title: "#BTogether"
+  - title: "#bTogether"
     content: |-
       **"What Makes Me Stronger"**
 
@@ -42,7 +42,7 @@ sections:
     actions:
     - label: Learn More
       url: https://vimeo.com/275668453
-  - title: "#BExpressive"
+  - title: "#bExpressive"
     content: |-
       **"Esse Quam Videri"**
 
@@ -51,7 +51,7 @@ sections:
     actions:
     - label: 'Learn More '
       url: https://instagram.com/p/Bl6UfHal1Mb/
-  - title: "#BProactive"
+  - title: "#bProactive"
     content: |-
       **"How to Save a Life"**
 
