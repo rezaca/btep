@@ -1,5 +1,11 @@
 {
   "name": "Renato",
   "email": "renato@btepinc.com",
-  "avatar": ""
+  "avatar": "",
+  "menu": {
+    "main": {
+      "weight": 5,
+      "title": "Board "
+    }
+  }
 }
