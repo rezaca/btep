@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: 'About '
 subtitle: ''
 img_path: "/images/Check to Harding.JPG"
 layout: page
@@ -33,7 +33,7 @@ sections:
   - label: 'Apply for Athletic Grant '
     url: https://us6-broadcast.officeapps.live.com/m/Broadcast.aspx?Fi=670046a54c1554af%5F0912d83f%2D1805%2D4be8%2Da682%2D2cd7c148c513%2Dasync%2Edocx
   section_id: ''
-  title: ''
+  title: About Us
 menu:
   secondary:
     weight: 1
