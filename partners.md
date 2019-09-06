@@ -3,6 +3,10 @@ layout: page
 title: Past & Present Partners
 subtitle: ''
 img_path: ''
+menu:
+  main:
+    weight: 5
+    title: Partners
 
 ---
 ### Novant Health
