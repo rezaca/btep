@@ -15,7 +15,6 @@ fields:
   label: Image
   description: The image shown below the page title.
 pages:
-- "./events.md"
 - partners.md
 - signup.md
 - about.md
