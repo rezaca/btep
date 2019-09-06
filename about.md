@@ -41,7 +41,6 @@ menu:
   main:
     weight: 2
     title: About
-published: false
 
 ---
 ### **btep overview**
