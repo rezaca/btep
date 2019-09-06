@@ -12,9 +12,5 @@ sections:
   image: ''
   actions: []
 layout: pricing
-menu:
-  main:
-    weight: 4
-    title: Board
 
 ---
