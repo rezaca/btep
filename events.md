@@ -14,9 +14,6 @@ sections:
 layout: pricing
 img_path: ''
 menu:
-  main:
-    weight: 4
-    title: The Board
   secondary:
     weight: 4
     title: 'Board '
