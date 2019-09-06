@@ -8,6 +8,7 @@ menu:
     weight: 4
   main:
     weight: 5
+    title: Partners
 
 ---
 Novant Health
