@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Past & Present Partners
+title: Partnerships
 subtitle: ''
 img_path: ''
 menu:
