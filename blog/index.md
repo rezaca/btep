@@ -1,5 +1,5 @@
 ---
-title: Media
+title: Test
 layout: blog
 menu:
   main:
