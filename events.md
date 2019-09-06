@@ -16,7 +16,7 @@ sections:
   component: content_block.html
   bg: gray
   type: contentblock
-  title: 2017 Blacktop Jungle
+  title: 2017 Blacktop Jungle 3v3
   content: Improving upon the success of our prior years
   image: "/images/2017 3v3.jpg"
   actions:
