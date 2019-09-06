@@ -5,7 +5,7 @@ subtitle: ''
 img_path: "/images/BTEP_tree-1.png"
 menu:
   secondary:
-    weight: 3
+    weight: 2
     title: Contact
 
 ---
