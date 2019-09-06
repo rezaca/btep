@@ -8,12 +8,12 @@ fields:
   description: The title of the page
   config:
     required: true
-- name: image
+- name: img_path
   type: file
   config:
     maxSize: 250
-  label: image
-  description: the image in the page
+  label: Image
+  description: The image shown below the page title.
 - name: text
   type: textarea
   default: ''
