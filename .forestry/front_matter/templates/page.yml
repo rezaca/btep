@@ -8,22 +8,22 @@ fields:
   description: The title of the page
   config:
     required: true
-- name: board
-  type: field_group_list
-  fields:
-  - name: board_member
-    type: blocks
-    label: board member
-    template_types: []
-    config:
-      min: 
-      max: 
+- name: image
+  type: file
   config:
-    min: 
-    max: 
-    labelField: 
-  label: board
-  description: board members go here
+    maxSize: 250
+  label: image
+  description: the image in the page
+- name: text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: text
+  description: the text in the page
 pages:
 - test.md
 - partners.md
