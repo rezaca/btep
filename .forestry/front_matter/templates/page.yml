@@ -29,7 +29,7 @@ fields:
   hidden: true
   default: pricing
 pages:
-- the-board.md
 - about.md
+- the-board.md
 - partners.md
 - signup.md

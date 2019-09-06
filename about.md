@@ -1,5 +1,5 @@
 ---
-title: 'About '
+title: About Us
 subtitle: ''
 img_path: "/images/Check to Harding.JPG"
 layout: page
