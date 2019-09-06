@@ -14,16 +14,6 @@ fields:
     maxSize: 250
   label: Image
   description: The image shown below the page title.
-- name: text
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: text
-  description: the text in the page
 pages:
 - test.md
 - partners.md
