@@ -35,11 +35,11 @@ sections:
   section_id: ''
   title: About Us
 menu:
+  secondary:
+    weight: 3
+    title: About
   main:
     weight: 2
-    title: About
-  secondary:
-    weight: 1
     title: About
 
 ---
