@@ -49,7 +49,7 @@ sections:
   component: content_block.html
   bg: gray
   type: contentblock
-  title: An Art Exclusion
+  title: An Art Excursion
   content: Providing youth with the opportunities to explore and engage the creative
     process within potential art careers
   image: "/images/Neiman Marcus.png"
