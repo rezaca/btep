@@ -36,7 +36,7 @@ _*Winners will receive special prizes_
 
 Youth Elite / Adult Elite / Youth Recreational
 
-Adult Recreational/ Coed / Corporate
+Adult Recreational / Coed / Corporate
 
 **Click the Link to Register:**
 
