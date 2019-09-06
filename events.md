@@ -14,7 +14,7 @@ sections:
 layout: pricing
 menu:
   main:
-    weight: 5
+    weight: 4
     title: The Board
   secondary:
     weight: 4
