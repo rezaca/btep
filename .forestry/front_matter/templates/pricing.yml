@@ -25,4 +25,5 @@ fields:
   config:
     required: true
 pages:
+- "./events-1.md"
 - events.md
