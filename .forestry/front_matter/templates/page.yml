@@ -24,6 +24,7 @@ fields:
   config:
     required: true
 pages:
+- partners.md
 - test.md
 - signup.md
 - about.md
