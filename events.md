@@ -95,6 +95,5 @@ layout: pricing
 menu:
   main:
     weight: 4
-published: false
 
 ---
