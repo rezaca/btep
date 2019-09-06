@@ -3,7 +3,7 @@ title: The Board
 img_path: ''
 menu:
   main:
-    weight: 5
+    weight: 4
     title: 'Board '
 
 ---

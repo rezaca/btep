@@ -38,9 +38,6 @@ menu:
   secondary:
     weight: 1
     title: About
-  main:
-    weight: 2
-    title: About
 
 ---
 ### **btep overview**
