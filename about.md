@@ -35,6 +35,9 @@ sections:
   section_id: ''
   title: About Us
 menu:
+  main:
+    weight: 2
+    title: About
   secondary:
     weight: 1
     title: About
