@@ -8,12 +8,25 @@ fields:
   description: The title of the page
   config:
     required: true
-- name: img_path
-  type: file
+- name: sections
+  type: blocks
+  label: Sections
+  template_types:
+  - contentblock
+  - ctablock
+  - faqblock
+  - pricingblock
   config:
-    maxSize: 250
-  label: Image
-  description: The image shown below the page title.
+    min: ''
+    max: 
+  description: Partner page sections.
+- name: layout
+  type: text
+  config:
+    required: true
+  label: Layout
+  hidden: true
+  default: pricing
 pages:
 - the-board.md
 - partners.md
