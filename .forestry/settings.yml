@@ -34,12 +34,6 @@ sections:
   label: Features
   templates:
   - features
-- type: jekyll-pages
-  label: Team
-  create: all
-  match: "**/*"
-  templates:
-  - team
 - type: document
   path: blog/index.md
   label: Blog
