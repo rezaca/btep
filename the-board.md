@@ -144,18 +144,18 @@ sections:
   bg: gray
   type: contentblock
   section_id: ''
-  title: ''
-  content: ''
-  image: ''
+  title: Grazell Howard
+  content: Founder of King & Kairos, Ltd
+  image: "/images/BTEP_tree-1.png"
   actions: []
 - template: contentblock
   component: content_block.html
   bg: gray
   type: contentblock
   section_id: ''
-  title: ''
-  content: ''
-  image: ''
+  title: Mimi Sabates
+  content: Executive Director of B.R.A.K.E.S.
+  image: "/images/BTEP_tree-1.png"
   actions: []
 - template: contentblock
   component: content_block.html
