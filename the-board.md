@@ -13,7 +13,9 @@ sections:
 
     A builder of cross cultural relationships that heal wounds that not only increase the currency of social capital, but manufacture enduring change
   section_id: ''
-  actions: []
+  actions:
+  - label: Socktips
+    url: https://socktips.com/
 - template: contentblock
   component: content_block.html
   bg: gray
