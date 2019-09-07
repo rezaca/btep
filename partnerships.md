@@ -55,7 +55,7 @@ sections:
   content: "\\#bExpressive Partner "
   image: "/images/Neiman Marcus-1.png"
   actions:
-  - url: https://www.charlottelinksinc.org/
+  - url: https://www.simon.com/mall/southpark/stores/neiman-marcus
     label: 'Neiman Marcus '
 - template: contentblock
   component: content_block.html
