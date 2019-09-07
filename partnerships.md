@@ -29,17 +29,6 @@ sections:
   bg: gray
   type: contentblock
   section_id: ''
-  title: Communities In Schools
-  content: "\\#bTogether Partner "
-  image: "/images/CIS Logo.jpg"
-  actions:
-  - label: CIS
-    url: https://cischarlotte.org/
-- template: contentblock
-  component: content_block.html
-  bg: gray
-  type: contentblock
-  section_id: ''
   title: 'The Charlotte Links '
   content: "\\#bTogether Partner "
   image: "/images/Links Charlotte.png"
@@ -51,10 +40,23 @@ sections:
   bg: gray
   type: contentblock
   section_id: ''
-  title: ''
-  content: ''
-  image: ''
-  actions: []
+  title: Communities In Schools
+  content: "\\#bTogether Partner "
+  image: "/images/CIS Logo.jpg"
+  actions:
+  - label: CIS
+    url: https://cischarlotte.org/
+- template: contentblock
+  component: content_block.html
+  bg: gray
+  type: contentblock
+  section_id: ''
+  title: Neiman Marcus
+  content: "\\#bExpressive Partner "
+  image: "/images/Neiman Marcus-1.png"
+  actions:
+  - url: https://www.charlottelinksinc.org/
+    label: 'Neiman Marcus '
 - template: contentblock
   component: content_block.html
   bg: gray
