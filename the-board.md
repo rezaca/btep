@@ -11,5 +11,9 @@ sections:
   section_id: ''
   content: ''
   actions: []
+menu:
+  main:
+    weight: 5
+    title: Directors
 
 ---
