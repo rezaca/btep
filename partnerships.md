@@ -59,7 +59,7 @@ sections:
     label: 'Neiman Marcus '
 - template: contentblock
   component: content_block.html
-  bg: gray
+  bg: white
   type: contentblock
   section_id: ''
   title: Fox 46 Charlotte
