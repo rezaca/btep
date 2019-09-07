@@ -73,9 +73,9 @@ sections:
   bg: gray
   type: contentblock
   section_id: ''
-  title: ''
-  content: ''
-  image: ''
+  title: Phase 3 Marketing & Communications
+  content: 'Marketing Partner '
+  image: "/images/Phase 3 logo.jpg"
   actions: []
 menu:
   main:
