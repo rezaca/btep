@@ -39,7 +39,9 @@ sections:
 
     A multilingual savant whose creative ideas and entrepreneurial spirit flourish everyday
   image: "/images/BTEP_tree.png"
-  actions: []
+  actions:
+  - label: Lobby CRE
+    url: https://www.lobbycre.com/
 - template: contentblock
   component: content_block.html
   bg: gray
