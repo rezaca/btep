@@ -99,6 +99,69 @@ sections:
   subtitle: 'Distinguished Mentors '
   section_id: ''
   actions: []
+- template: contentblock
+  component: content_block.html
+  bg: gray
+  type: contentblock
+  title: 'Sandra Conway '
+  content: 'Social Impact Consultant '
+  image: "/images/BTEP_tree-1.png"
+  section_id: ''
+  actions: []
+- template: contentblock
+  component: content_block.html
+  bg: gray
+  type: contentblock
+  section_id: ''
+  title: ''
+  content: ''
+  image: ''
+  actions: []
+- template: contentblock
+  component: content_block.html
+  bg: gray
+  type: contentblock
+  section_id: ''
+  title: ''
+  content: ''
+  image: ''
+  actions: []
+- template: contentblock
+  component: content_block.html
+  bg: gray
+  type: contentblock
+  section_id: ''
+  title: ''
+  content: ''
+  image: ''
+  actions: []
+- template: contentblock
+  component: content_block.html
+  bg: gray
+  type: contentblock
+  section_id: ''
+  title: ''
+  content: ''
+  image: ''
+  actions: []
+- template: contentblock
+  component: content_block.html
+  bg: gray
+  type: contentblock
+  section_id: ''
+  title: ''
+  content: ''
+  image: ''
+  actions: []
+- template: contentblock
+  component: content_block.html
+  bg: gray
+  type: contentblock
+  section_id: ''
+  title: ''
+  content: ''
+  image: ''
+  actions: []
 menu:
   main:
     weight: 4
