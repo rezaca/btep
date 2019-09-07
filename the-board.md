@@ -17,7 +17,7 @@ sections:
   bg: gray
   type: contentblock
   image: "/images/BTEP_tree.png"
-  title: Chad Taylor
+  title: Chad T.
   content: |-
     **Director of Operations**
 
@@ -29,7 +29,7 @@ sections:
   bg: gray
   type: contentblock
   section_id: ''
-  title: EJ Drayton
+  title: EJ D.
   content: "**Director of Promotions** \n\nAn innovator and connoisseur of transportation.
     A forward thinker and purveyor of novel ideas that rival his older counterparts."
   image: "/images/BTEP_tree-1.png"
