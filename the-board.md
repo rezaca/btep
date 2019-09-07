@@ -51,9 +51,12 @@ sections:
   bg: gray
   type: contentblock
   section_id: ''
-  title: ''
-  content: ''
-  image: ''
+  title: David M.
+  content: |-
+    Director of Player Recruitment
+
+    A genteel man whose auspicious future requires barriers of the strongest material, to slow the hoards of individuals clamoring for his services
+  image: "/images/BTEP_tree.png"
   actions: []
 - template: contentblock
   component: content_block.html
