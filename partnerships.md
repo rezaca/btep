@@ -26,7 +26,7 @@ sections:
     url: https://www.charlottecentercity.org/
 - template: contentblock
   component: content_block.html
-  bg: gray
+  bg: white
   type: contentblock
   section_id: ''
   title: 'The Charlotte Links '
