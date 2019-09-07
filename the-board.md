@@ -156,7 +156,9 @@ sections:
   title: Mimi Sabates
   content: Executive Director of B.R.A.K.E.S.
   image: "/images/BTEP_tree-1.png"
-  actions: []
+  actions:
+  - label: B.R.A.K.E.S
+    url: www.putonthebrakes.org
 - template: contentblock
   component: content_block.html
   bg: gray
