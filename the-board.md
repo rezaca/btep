@@ -63,9 +63,10 @@ sections:
   bg: gray
   type: contentblock
   section_id: ''
-  title: ''
-  content: ''
-  image: ''
+  title: Daniel G.
+  content: "**Asset Manager**\n\nA young tycoon and packaging extraordinaire who brings
+    laughter and energy to any boardroom he enters "
+  image: "/images/BTEP_tree-1.png"
   actions: []
 - template: contentblock
   component: content_block.html
