@@ -29,9 +29,9 @@ sections:
   bg: gray
   type: contentblock
   section_id: ''
-  title: ''
-  content: ''
-  image: ''
+  title: Communities In Schools
+  content: "\\#bTogether Partner "
+  image: "/images/CIS Logo.jpg"
   actions: []
 - template: contentblock
   component: content_block.html
