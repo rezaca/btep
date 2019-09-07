@@ -40,10 +40,12 @@ sections:
   bg: gray
   type: contentblock
   section_id: ''
-  title: ''
-  content: ''
-  image: ''
-  actions: []
+  title: 'The Charlotte Links '
+  content: "\\#bTogether Partner "
+  image: "/images/Links Charlotte.png"
+  actions:
+  - label: 'NC Chapter '
+    url: https://www.charlottelinksinc.org/
 - template: contentblock
   component: content_block.html
   bg: gray
