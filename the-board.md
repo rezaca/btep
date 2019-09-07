@@ -7,7 +7,7 @@ sections:
   bg: gray
   type: contentblock
   image: "/images/BTEP_tree.png"
-  title: Kathryn Ruland
+  title: Kathryn R.
   section_id: ''
   content: "**Director of Marketing** \n\nA marketing genius who talents only fall
     second to her compassion for others"
@@ -39,9 +39,12 @@ sections:
   bg: gray
   type: contentblock
   section_id: ''
-  title: ''
-  content: ''
-  image: ''
+  title: Renato Z.
+  content: |-
+    **Director of Technology**
+
+    A multilingual savant whose creative ideas and entrepreneurial spirit flourish everyday
+  image: "/images/BTEP_tree.png"
   actions: []
 - template: contentblock
   component: content_block.html
