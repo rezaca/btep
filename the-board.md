@@ -85,7 +85,7 @@ sections:
   bg: gray
   type: contentblock
   section_id: ''
-  title: Herb B
+  title: Herb B.
   content: |-
     **President**
 
