@@ -77,7 +77,9 @@ sections:
   content: "**Asset Manager**\n\nA young tycoon and packaging extraordinaire who brings
     laughter and energy to any boardroom he enters "
   image: "/images/BTEP_tree-1.png"
-  actions: []
+  actions:
+  - label: 'Stephen Gould '
+    url: https://www.gouldcharlotte.com/
 - template: contentblock
   component: content_block.html
   bg: gray
