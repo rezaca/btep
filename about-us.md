@@ -29,7 +29,7 @@ sections:
   title: About Us
   actions:
   - label: 'Apply for Grant '
-    url: https://us6-broadcast.officeapps.live.com/m/Broadcast.aspx?Fi=670046a54c1554af%5F0912d83f%2D1805%2D4be8%2Da682%2D2cd7c148c513%2Dasync%2Edocx
+    url: https://drive.google.com/open?id=1d_K2BN4Jc_I6TRQsBtIAJUMP5W9SMbEU
   image: "/images/Check to Harding.JPG"
   section_id: ''
 menu:
