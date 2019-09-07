@@ -7,22 +7,36 @@ sections:
   bg: gray
   type: contentblock
   image: "/images/BTEP_tree.png"
-  title: Kathryn R.
-  section_id: ''
-  content: "**Director of Marketing** \n\nA marketing genius who talents only fall
-    second to her compassion for others"
-  actions: []
-- template: contentblock
-  component: content_block.html
-  bg: gray
-  type: contentblock
-  image: "/images/BTEP_tree.png"
   title: Chad T.
   content: |-
     **Director of Operations**
 
     A builder of cross cultural relationships that heal wounds that not only increase the currency of social capital, but manufacture enduring change
   section_id: ''
+  actions: []
+- template: contentblock
+  component: content_block.html
+  bg: gray
+  type: contentblock
+  image: "/images/BTEP_tree.png"
+  title: Kathryn R.
+  section_id: ''
+  content: "**Director of Marketing** \n\nA marketing genius who talents only fall
+    second to her compassion for others"
+  actions:
+  - label: Stephen Gould
+    url: https://www.phase3mc.com/
+- template: contentblock
+  component: content_block.html
+  bg: gray
+  type: contentblock
+  section_id: ''
+  title: Renato Z.
+  content: |-
+    **Director of Technology**
+
+    A multilingual savant whose creative ideas and entrepreneurial spirit flourish everyday
+  image: "/images/BTEP_tree.png"
   actions: []
 - template: contentblock
   component: content_block.html
@@ -36,18 +50,6 @@ sections:
   actions:
   - url: https://www.facebook.com/pg/Ride.Jauntclt/about/?ref=page_internal
     label: Ride Jaunt
-- template: contentblock
-  component: content_block.html
-  bg: gray
-  type: contentblock
-  section_id: ''
-  title: Renato Z.
-  content: |-
-    **Director of Technology**
-
-    A multilingual savant whose creative ideas and entrepreneurial spirit flourish everyday
-  image: "/images/BTEP_tree.png"
-  actions: []
 - template: contentblock
   component: content_block.html
   bg: gray
