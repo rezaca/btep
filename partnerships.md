@@ -32,7 +32,9 @@ sections:
   title: Communities In Schools
   content: "\\#bTogether Partner "
   image: "/images/CIS Logo.jpg"
-  actions: []
+  actions:
+  - label: CIS
+    url: https://cischarlotte.org/
 - template: contentblock
   component: content_block.html
   bg: gray
