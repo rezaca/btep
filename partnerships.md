@@ -18,10 +18,12 @@ sections:
   bg: gray
   type: contentblock
   section_id: ''
-  title: ''
-  content: ''
-  image: ''
-  actions: []
+  title: Charlotte Center City Partners
+  content: Blacktop Jungle Partner
+  image: "/images/CCCP Logo.jpg"
+  actions:
+  - label: CCCP
+    url: https://www.charlottecentercity.org/
 - template: contentblock
   component: content_block.html
   bg: gray
