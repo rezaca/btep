@@ -29,11 +29,13 @@ sections:
   bg: gray
   type: contentblock
   section_id: ''
-  title: EJ D.
+  title: EJ Dr.
   content: "**Director of Promotions** \n\nAn innovator and connoisseur of transportation.
     A forward thinker and purveyor of novel ideas that rival his older counterparts."
   image: "/images/BTEP_tree-1.png"
-  actions: []
+  actions:
+  - url: https://www.facebook.com/pg/Ride.Jauntclt/about/?ref=page_internal
+    label: Ride Jaunt
 - template: contentblock
   component: content_block.html
   bg: gray
