@@ -11,6 +11,5 @@ sections:
   section_id: ''
   content: ''
   actions: []
-published: false
 
 ---
