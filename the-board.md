@@ -113,10 +113,12 @@ sections:
   bg: gray
   type: contentblock
   section_id: ''
-  title: ''
-  content: ''
-  image: ''
-  actions: []
+  title: Jim Canaata
+  content: Executive VP of Agency Services
+  image: "/images/BTEP_tree-1.png"
+  actions:
+  - label: Phase 3 MC
+    url: https://phase3mc.com
 - template: contentblock
   component: content_block.html
   bg: gray
