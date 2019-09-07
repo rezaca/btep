@@ -4,7 +4,7 @@ title: Partnerships
 sections:
 - template: contentblock
   component: content_block.html
-  bg: gray
+  bg: white
   type: contentblock
   image: "/images/AAU 33 logo-2.png"
   title: 'AAU Corporate '
