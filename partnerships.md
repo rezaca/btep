@@ -70,7 +70,7 @@ sections:
     url: https://www.fox46charlotte.com/
 - template: contentblock
   component: content_block.html
-  bg: gray
+  bg: white
   type: contentblock
   section_id: ''
   title: Phase 3 Marketing & Communications
