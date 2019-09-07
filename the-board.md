@@ -113,7 +113,7 @@ sections:
   bg: gray
   type: contentblock
   section_id: ''
-  title: Jim Canaata
+  title: Jim Cannata
   content: Executive VP of Agency Services
   image: "/images/BTEP_tree-1.png"
   actions:
