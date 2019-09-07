@@ -81,7 +81,7 @@ sections:
     url: https://www.phase3mc.com/
 - template: contentblock
   component: content_block.html
-  bg: gray
+  bg: white
   type: contentblock
   title: 'RideJaunt '
   content: Ride Share Partner
