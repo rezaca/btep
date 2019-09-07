@@ -79,6 +79,17 @@ sections:
   actions:
   - label: Phase 3
     url: https://www.phase3mc.com/
+- template: contentblock
+  component: content_block.html
+  bg: gray
+  type: contentblock
+  title: 'RideJaunt '
+  content: Ride Share Partner
+  image: "/images/Jaunt logo.png"
+  actions:
+  - label: Jaunt
+    url: https://www.facebook.com/Ride.Jauntclt/
+  section_id: ''
 menu:
   main:
     weight: 5
