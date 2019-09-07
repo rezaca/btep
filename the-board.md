@@ -65,7 +65,9 @@ sections:
 
     A genteel man whose auspicious future requires barriers of the strongest material, to slow the hoards of individuals clamoring for his services
   image: "/images/BTEP_tree.png"
-  actions: []
+  actions:
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/david-mason-01897847/
 - template: contentblock
   component: content_block.html
   bg: gray
