@@ -92,6 +92,13 @@ sections:
     To be concise, may God receive all the glory, for it is only he who lets my actions speak louder than my words
   image: "/images/BTEP_tree.png"
   actions: []
+- template: ctablock
+  component: cta_block.html
+  type: ctablock
+  title: 'Advisory Board '
+  subtitle: 'Distinguished Mentors '
+  section_id: ''
+  actions: []
 menu:
   main:
     weight: 4
