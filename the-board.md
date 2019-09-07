@@ -24,7 +24,7 @@ sections:
   content: "**Director of Marketing** \n\nA marketing genius who talents only fall
     second to her compassion for others"
   actions:
-  - label: Stephen Gould
+  - label: Phase 3 MC
     url: https://www.phase3mc.com/
 - template: contentblock
   component: content_block.html
