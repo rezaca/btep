@@ -73,9 +73,12 @@ sections:
   bg: gray
   type: contentblock
   section_id: ''
-  title: ''
-  content: ''
-  image: ''
+  title: Herb B
+  content: |-
+    **President**
+
+    To be concise, may God receive all the glory, for it is only he who lets my actions speak louder than my words
+  image: "/images/BTEP_tree.png"
   actions: []
 menu:
   main:
