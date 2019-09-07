@@ -134,7 +134,7 @@ sections:
   type: contentblock
   section_id: ''
   title: Yolanda Johnson
-  content: ''
+  content: 'Co-Owner and President '
   image: "/images/BTEP_tree-1.png"
   actions:
   - url: https://www.sbjenterprises.net/
