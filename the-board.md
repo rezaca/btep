@@ -124,19 +124,21 @@ sections:
   bg: gray
   type: contentblock
   section_id: ''
-  title: ''
-  content: ''
-  image: ''
+  title: 'Gary Knight '
+  content: 'Nonprofit Strategist '
+  image: "/images/BTEP_tree-1.png"
   actions: []
 - template: contentblock
   component: content_block.html
   bg: gray
   type: contentblock
   section_id: ''
-  title: ''
+  title: Yolanda Johnson
   content: ''
-  image: ''
-  actions: []
+  image: "/images/BTEP_tree-1.png"
+  actions:
+  - url: https://www.sbjenterprises.net/
+    label: SB&J Enterprises
 - template: contentblock
   component: content_block.html
   bg: gray
