@@ -62,9 +62,9 @@ sections:
   bg: gray
   type: contentblock
   section_id: ''
-  title: ''
-  content: ''
-  image: ''
+  title: Fox 46 Charlotte
+  content: Media Partner
+  image: "/images/Fox 46 logo.png"
   actions: []
 - template: contentblock
   component: content_block.html
