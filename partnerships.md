@@ -76,7 +76,9 @@ sections:
   title: Phase 3 Marketing & Communications
   content: 'Marketing Partner '
   image: "/images/Phase 3 logo.jpg"
-  actions: []
+  actions:
+  - label: Phase 3
+    url: https://www.phase3mc.com/
 menu:
   main:
     weight: 5
