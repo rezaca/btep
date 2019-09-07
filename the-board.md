@@ -164,9 +164,9 @@ sections:
   bg: gray
   type: contentblock
   section_id: ''
-  title: ''
-  content: ''
-  image: ''
+  title: Brandon Adcock
+  content: Co-Founder of Direct Digital LLC
+  image: "/images/BTEP_tree-1.png"
   actions: []
 menu:
   main:
