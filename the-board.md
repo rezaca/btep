@@ -9,7 +9,7 @@ sections:
   image: "/images/BTEP logo.png"
   title: Kathryn Ruland
   section_id: ''
-  content: ''
+  content: A marketing genius who talents only fall second to her compassion for others
   actions: []
 menu:
   main:
