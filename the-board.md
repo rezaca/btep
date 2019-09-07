@@ -29,9 +29,10 @@ sections:
   bg: gray
   type: contentblock
   section_id: ''
-  title: ''
-  content: ''
-  image: ''
+  title: EJ Drayton
+  content: "**Director of Promotions** \n\nAn innovator and connoisseur of transportation.
+    A forward thinker and purveyor of novel ideas that rival his older counterparts."
+  image: "/images/BTEP_tree-1.png"
   actions: []
 - template: contentblock
   component: content_block.html
