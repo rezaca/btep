@@ -65,7 +65,9 @@ sections:
   title: Fox 46 Charlotte
   content: Media Partner
   image: "/images/Fox 46 logo.png"
-  actions: []
+  actions:
+  - label: Fox46
+    url: https://www.fox46charlotte.com/
 - template: contentblock
   component: content_block.html
   bg: gray
