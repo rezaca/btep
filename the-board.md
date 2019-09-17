@@ -63,7 +63,7 @@ sections:
   content: |-
     **Director of Player Recruitment**
 
-    A genteel man whose auspicious future requires barriers of the strongest material, to slow the hoards of individuals clamoring for his services
+    A genteel man whose auspicious future requires barriers to slow the hoards of individuals clamoring for his services
   image: "/images/BTEP_tree.png"
   actions:
   - label: LinkedIn
