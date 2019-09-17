@@ -9,10 +9,10 @@ header:
   has_nav: true
   menu:
     actions:
-    - label: Donate
-      url: https://www.paypal.com/paypalme2/Btepinc
     - label: Register a Team
       url: https://www.tourneymachine.com/E65074
+    - label: Donate
+      url: https://www.paypal.com/paypalme2/Btepinc
 footer:
   logo_img: "/images/bteplogoCMS.png"
   tagline: bringing together extraordinary people
