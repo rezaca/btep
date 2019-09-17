@@ -36,7 +36,7 @@ sections:
     url: https://vimeo.com/357854857
 - template: contentblock
   component: content_block.html
-  bg: gray
+  bg: white
   type: contentblock
   title: 'Anti-Bullying Rally '
   content: One small ripple can affect the whole pond
@@ -47,7 +47,7 @@ sections:
   section_id: ''
 - template: contentblock
   component: content_block.html
-  bg: gray
+  bg: white
   type: contentblock
   title: An Art Excursion
   content: Providing youth with the opportunities to explore and engage the creative
