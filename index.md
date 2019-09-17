@@ -11,7 +11,7 @@ sections:
 
     All skills and age levels are welcome as we converge upon the streets of Uptown Charlotte for a day of competition and fun in the sun.
 
-    Come see why the Blacktop Jungle 3v3 in its third year is becoming a premier basketball tournament in the Carolinas.
+    Come see why the Blacktop Jungle 3v3 is becoming a premier basketball tournament in the Carolinas.
   image: "/images/3v3 2019.jpg"
   actions:
   - label: Register Your Team(s)
