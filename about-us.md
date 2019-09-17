@@ -4,7 +4,7 @@ title: About Us
 sections:
 - template: contentblock
   component: content_block.html
-  bg: gray
+  bg: white
   type: contentblock
   content: |-
     ### **btep overview**
