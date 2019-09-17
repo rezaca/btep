@@ -3,7 +3,7 @@ title: Events
 sections:
 - template: contentblock
   component: content_block.html
-  bg: gray
+  bg: white
   type: contentblock
   section_id: ''
   title: 2019 Blacktop Jungle 3v3
