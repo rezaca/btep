@@ -31,7 +31,7 @@ sections:
   - label: 'Apply for Grant '
     url: https://drive.google.com/open?id=1bTJwXb04oSxaTP_2vEANVCVolyFobcLk
   image: "/images/Check to Harding.JPG"
-  section_id: ''
+  section_id: About Us
 menu:
   secondary:
     weight: 1
