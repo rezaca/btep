@@ -11,7 +11,7 @@ sections:
   content: |-
     **Director of Operations**
 
-    A builder of cross cultural relationships that heal wounds that not only increase the currency of social capital, but manufacture enduring change
+    A builder of cross cultural relationships that not only increase the currency of social capital, but manufacture enduring change
   section_id: ''
   actions:
   - label: Socktips
