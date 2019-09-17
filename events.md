@@ -14,7 +14,7 @@ sections:
     url: https://instagram.com/p/Bxsv-J_H2yc/
 - template: contentblock
   component: content_block.html
-  bg: gray
+  bg: white
   type: contentblock
   title: 2017 Blacktop Jungle 3v3
   content: Improving upon the success of our prior years
