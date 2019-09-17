@@ -43,7 +43,7 @@ sections:
   image: "/images/30604173_252491185295487_1629953596504145920_n.jpg"
   actions:
   - label: Reid Park Elementary
-    url: https://vimeo.com/357895114
+    url: https://vimeo.com/220097530
   section_id: ''
 - template: contentblock
   component: content_block.html
