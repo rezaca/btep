@@ -59,7 +59,7 @@ sections:
   section_id: ''
 - template: contentblock
   component: content_block.html
-  bg: gray
+  bg: white
   type: contentblock
   title: 'Grant Recipient '
   content: Awarded to Philip O Berry Baseball Team
