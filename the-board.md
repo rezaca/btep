@@ -20,32 +20,6 @@ sections:
   component: content_block.html
   bg: gray
   type: contentblock
-  image: "/images/BTEP_tree.png"
-  title: Kathryn R.
-  section_id: ''
-  content: "**Director of Marketing** \n\nA marketing genius who talents only fall
-    second to her compassion for others"
-  actions:
-  - label: Phase 3 MC
-    url: https://www.phase3mc.com/
-- template: contentblock
-  component: content_block.html
-  bg: gray
-  type: contentblock
-  section_id: ''
-  title: Renato Z.
-  content: |-
-    **Director of Technology**
-
-    A multilingual savant whose creative ideas and entrepreneurial spirit flourish everyday
-  image: "/images/BTEP_tree.png"
-  actions:
-  - label: Lobby CRE
-    url: https://www.lobbycre.com/
-- template: contentblock
-  component: content_block.html
-  bg: gray
-  type: contentblock
   section_id: ''
   title: EJ D.
   content: "**Director of Promotions** \n\nAn innovator and connoisseur of transportation.
@@ -164,8 +138,8 @@ sections:
   bg: gray
   type: contentblock
   section_id: ''
-  title: Brandon Adcock
-  content: Co-Founder of Direct Digital LLC
+  title: 'Kamal Patel '
+  content: Investor and Analyst
   image: "/images/BTEP_tree-1.png"
   actions: []
 menu:

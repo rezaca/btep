@@ -30,6 +30,6 @@ fields:
   default: pricing
 pages:
 - about-us.md
-- the-board.md
 - partnerships.md
 - signup.md
+- the-board.md
